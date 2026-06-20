@@ -2,11 +2,11 @@
 title: "Dr. Pablo Martín Demetrio"
 about:
   template: trestles
-  image: profile.jpg
+  image: "foto_Demetrio_B&N.jpg"
   links:
     - icon: envelope
       text: Email
-      href: mailto:tu-email@ejemplo.com
+      href: mailto:pablo.demetrio@gmail.com
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es

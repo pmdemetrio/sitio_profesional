@@ -5,7 +5,7 @@ project:
 website:
   title: "Dr. Pablo Martín Demetrio"
   description: "Investigador Científico y Docente"
-  favicon: "profile.jpg"
+  favicon: "foto_Demetrio_B&N.jpg"
   navbar:
     background: primary
     left:
@@ -20,7 +20,7 @@ website:
         target: _blank
     right:
       - icon: envelope
-        href: mailto:tu-email@ejemplo.com
+        href: mailto:pablo.demetrio@gmail.com
         aria-label: Email
       - icon: mortarboard
         href: https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es
@@ -31,7 +31,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: litera
+      dark: slate
     css: styles.css
     toc: true
     smooth-scroll: true
