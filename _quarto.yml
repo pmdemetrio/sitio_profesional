@@ -2,12 +2,14 @@ project:
   type: website
   output-dir: docs
 
+lang: es
+
 website:
-  title: "Dr. Pablo Martín Demetrio"
+  title: "PMD"
   description: "Investigador Científico y Docente"
   favicon: "foto_Demetrio_B&N.jpg"
   navbar:
-    background: primary
+    background: light
     left:
       - href: index.qmd
         text: Inicio
@@ -15,9 +17,10 @@ website:
         text: Investigación
       - href: docencia.qmd
         text: Docencia
-      - text: "Descargar CV"
-        href: "files/CV_Pablo_Demetrio.pdf"
-        target: _blank
+      - href: transferencia.qmd
+        text: Transferencia
+
+
     right:
       - icon: envelope
         href: mailto:pablo.demetrio@gmail.com
@@ -25,9 +28,12 @@ website:
       - icon: mortarboard
         href: https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es
         aria-label: Google Scholar
-      - text: "CONICET"
+      - text: "<img src='conicet_logo.svg' style='height: 1.2em; vertical-align: middle; margin-right: 4px;' />"
         href: https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio
         aria-label: CONICET Profile
+      - text: "<img src='unlp_logo.svg' style='height: 1.6em; vertical-align: middle; margin-right: 4px;' />"
+        href: https://www.fcnym.unlp.edu.ar/grado_/catedras/geoestadistica/
+        aria-label: UNLP
 
 format:
   html:

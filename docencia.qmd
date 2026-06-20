@@ -2,14 +2,19 @@
 title: "Docencia"
 ---
 
-A lo largo de mi carrera académica, he participado en el dictado de cursos de grado y posgrado, enfocándome en la formación de recursos humanos en las áreas de ecotoxicología y estadística aplicada.
+A lo largo de mi carrera académica, he participado en el dictado de cursos de grado y posgrado, enfocándome en la formación de recursos humanos en las áreas de ecotoxicología, evaluación de riesgos y estadística aplicada.
 
 ## Cursos Actuales
 
-*Añade aquí los cursos que dictas actualmente.*
+### Grado
 
-*   **Curso 1**: Breve descripción del curso y tu rol (ej. Profesor Adjunto, JTP).
-*   **Curso 2**: Breve descripción del curso.
+*   **Geoestadística** Licenciatura en Geoquímica, FCNyM, UNLP 
+
+### Postgrado
+
+*   **Métodos estadísticos aplicados a las ciencias químicas y biologicas** acreditado para doctorado FCE, UNLP
+*   **Introducción al análisis de datos en las ciencias ambientales con R** acreditado para doctorado FCNyM, UNLP
+*   **Ecotoxicología** y **Riesgo Ambiental** Maestría en Ingeniería Ambiental, UTN, FRLP
 
 ## Material Didáctico
 
@@ -17,4 +22,3 @@ A lo largo de mi carrera académica, he participado en el dictado de cursos de g
 *   [Guías de Trabajos Prácticos](#)
 *   [Código y Ejercicios Prácticos (R/Python)](#)
 
-*(Nota: Puedes enlazar aquí documentos PDF, presentaciones o repositorios de GitHub con el material de tus clases).*

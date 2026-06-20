@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Pablo M. Demetrio">
+<meta name="description" content="Descubrimos que la Hydra, un pequeño animal acuático, es más sensible al herbicida glifosato que a los insecticidas diseñados para matar plagas.">
 
-<title>Investigación – PMD</title>
+<title>¿Un matayuyos que afecta a los animales? El curioso caso de la Hydra – PMD</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -45,9 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3c69c2f85e0dfa878dd89101a224c5c2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-6e345d57f0301e30019b342f544db543.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-3c69c2f85e0dfa878dd89101a224c5c2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-86483f7b062800b208cdc637b2054500.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-59aca1cb1b5cf4d550c7123f63d2a480.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-86483f7b062800b208cdc637b2054500.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -265,8 +267,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./investigacion.html" aria-current="page"> 
+    <a class="nav-link" href="./investigacion.html"> 
 <span class="menu-text">Investigación</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./divulgacion.html"> 
+<span class="menu-text">Divulgación</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./docencia.html"> 
@@ -275,6 +281,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./transferencia.html"> 
 <span class="menu-text">Transferencia</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./files/CV_Pablo_Demetrio.pdf" target="_blank"> 
+<span class="menu-text">Descargar CV</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -290,11 +300,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio"> 
-<span class="menu-text"><img src="conicet_logo.svg" style="height: 1.2em; vertical-align: middle; margin-right: 4px;"></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://www.fcnym.unlp.edu.ar/grado_/catedras/geoestadistica/"> 
-<span class="menu-text"><img src="unlp_logo.svg" style="height: 1.2em; vertical-align: middle; margin-right: 4px;"></span></a>
+<span class="menu-text">CONICET</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -313,8 +319,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">En esta página</h2>
    
   <ul>
-  <li><a href="#líneas-e-intereses-de-investigación" id="toc-líneas-e-intereses-de-investigación" class="nav-link active" data-scroll-target="#líneas-e-intereses-de-investigación">Líneas e Intereses de Investigación</a></li>
-  <li><a href="#publicaciones" id="toc-publicaciones" class="nav-link" data-scroll-target="#publicaciones">Publicaciones</a></li>
+  <li><a href="#el-problema-invisible-en-nuestras-aguas" id="toc-el-problema-invisible-en-nuestras-aguas" class="nav-link active" data-scroll-target="#el-problema-invisible-en-nuestras-aguas">El problema invisible en nuestras aguas</a></li>
+  <li><a href="#nuestro-estudio-con-la-hydra-attenuata" id="toc-nuestro-estudio-con-la-hydra-attenuata" class="nav-link" data-scroll-target="#nuestro-estudio-con-la-hydra-attenuata">Nuestro estudio con la <em>Hydra attenuata</em></a>
+  <ul class="collapse">
+  <li><a href="#el-hallazgo-sorprendente" id="toc-el-hallazgo-sorprendente" class="nav-link" data-scroll-target="#el-hallazgo-sorprendente">El hallazgo sorprendente</a></li>
+  </ul></li>
+  <li><a href="#por-qué-ocurre-esto-y-por-qué-importa" id="toc-por-qué-ocurre-esto-y-por-qué-importa" class="nav-link" data-scroll-target="#por-qué-ocurre-esto-y-por-qué-importa">¿Por qué ocurre esto y por qué importa?</a></li>
   </ul>
 </nav>
     </div>
@@ -324,14 +334,36 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Investigación</h1>
-</div>
+<h1 class="title">¿Un matayuyos que afecta a los animales? El curioso caso de la Hydra</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Ecotoxicología</div>
+    <div class="quarto-category">Glifosato</div>
+    <div class="quarto-category">Invertebrados</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    Descubrimos que la Hydra, un pequeño animal acuático, es más sensible al herbicida glifosato que a los insecticidas diseñados para matar plagas.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Autor/a</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pablo M. Demetrio </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de publicación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">18 de noviembre de 2012</p>
+    </div>
+  </div>
   
     
   </div>
@@ -341,20 +373,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental.</p>
-<p>Mi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándose en contaminantes asociados con la actividad antrópica.</p>
-<section id="líneas-e-intereses-de-investigación" class="level2">
-<h2 class="anchored" data-anchor-id="líneas-e-intereses-de-investigación">Líneas e Intereses de Investigación</h2>
-<ul>
-<li><strong>Ecotoxicología y Evaluación de Riesgos</strong>: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.</li>
-<li><strong>Estadística Aplicada y Ciencia de Datos</strong>: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.</li>
-<li><strong>Gestión Ambiental</strong>: Desarrollo de herramientas para la toma de decisiones basadas en evidencia.</li>
-</ul>
+<section id="el-problema-invisible-en-nuestras-aguas" class="level2">
+<h2 class="anchored" data-anchor-id="el-problema-invisible-en-nuestras-aguas">El problema invisible en nuestras aguas</h2>
+<p>En nuestros campos, se utilizan principalmente dos tipos de químicos para asegurar el crecimiento de la soja: <strong>insecticidas</strong> (para matar insectos plaga, como la cipermetrina y el clorpirifos) y <strong>herbicidas</strong> (para matar malezas, como el famoso glifosato).</p>
+<p>Normalmente, pensaríamos que un químico diseñado para matar insectos sería más peligroso para la vida animal en nuestros ríos que un químico diseñado para matar plantas. Sin embargo, la naturaleza siempre nos da sorpresas.</p>
 </section>
-<section id="publicaciones" class="level2">
-<h2 class="anchored" data-anchor-id="publicaciones">Publicaciones</h2>
-<p>Para ver una lista completa y actualizada de mis publicaciones científicas, citas e índices bibliométricos, puedes visitar mi perfil oficial:</p>
-<p><a href="https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&amp;hl=es" class="btn btn-primary mt-3">👉 Ver mis publicaciones en Google Scholar</a></p>
+<section id="nuestro-estudio-con-la-hydra-attenuata" class="level2">
+<h2 class="anchored" data-anchor-id="nuestro-estudio-con-la-hydra-attenuata">Nuestro estudio con la <em>Hydra attenuata</em></h2>
+<p>Para entender el impacto ecológico de estos químicos cuando llegan al agua por la lluvia o el viento, realizamos pruebas de toxicidad usando a la <strong><em>Hydra attenuata</em></strong>.</p>
+<p>La Hydra es un invertebrado acuático microscópico, pero fascinante: tiene un cuerpo muy simple en forma de tubo con tentáculos, es pariente de las medusas y carece de un sistema nervioso complejo. Es un organismo excelente para evaluar la calidad del agua.</p>
+<section id="el-hallazgo-sorprendente" class="level3">
+<h3 class="anchored" data-anchor-id="el-hallazgo-sorprendente">El hallazgo sorprendente</h3>
+<p>Comparamos la toxicidad de las <strong>formulaciones comerciales</strong> (el producto químico tal como se vende en el bidón, mezclado con otros compuestos) frente al <strong>ingrediente activo puro</strong> (solo la molécula que hace el trabajo principal).</p>
+<p>Encontramos dos cosas muy llamativas:</p>
+<ol type="1">
+<li><strong>Inesperada resistencia y sensibilidad:</strong> A pesar de ser un animal, la Hydra resultó ser <strong>muy resistente a los insecticidas</strong> probados, pero <strong>altamente sensible al glifosato</strong> (herbicida).</li>
+<li><strong>El cóctel comercial importa:</strong> Cuando probamos el glifosato, notamos que la formulación comercial (la mezcla completa que llega al campo) era <strong>más tóxica</strong> en concentraciones bajas que el ingrediente activo aislado.</li>
+</ol>
+</section>
+</section>
+<section id="por-qué-ocurre-esto-y-por-qué-importa" class="level2">
+<h2 class="anchored" data-anchor-id="por-qué-ocurre-esto-y-por-qué-importa">¿Por qué ocurre esto y por qué importa?</h2>
+<p>La baja sensibilidad a los insecticidas puede deberse a que la Hydra es un organismo anatómicamente muy simple y carece del sistema nervioso desarrollado que estos insecticidas suelen atacar.</p>
+<p>Pero su alta sensibilidad al glifosato nos deja un mensaje crucial para la gestión ambiental: <strong>No podemos evaluar el riesgo ecológico basándonos únicamente en la molécula pura</strong>. Las formulaciones comerciales contienen “coadyuvantes” (compuestos que ayudan a que el veneno penetre o se adhiera) que pueden modificar drásticamente el impacto sobre organismos que no eran el blanco original, como nuestros invertebrados acuáticos.</p>
+<hr>
+<p><em>👉 <strong>Para los más curiosos:</strong> Si quieres profundizar en la metodología y el análisis estadístico detallado, puedes consultar la <a href="https://doi.org/10.1007/s00128-011-0463-0">publicación original en el Bulletin of Environmental Contamination and Toxicology (2012) aquí</a>.</em></p>
 
 
 </section>

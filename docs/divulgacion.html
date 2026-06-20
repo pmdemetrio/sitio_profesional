@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Investigación – PMD</title>
+<title>Divulgación Científica – PMD</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -34,6 +34,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./foto_Demetrio_B&amp;N.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -45,9 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3c69c2f85e0dfa878dd89101a224c5c2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-6e345d57f0301e30019b342f544db543.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-3c69c2f85e0dfa878dd89101a224c5c2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-86483f7b062800b208cdc637b2054500.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-59aca1cb1b5cf4d550c7123f63d2a480.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-86483f7b062800b208cdc637b2054500.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,8 +77,66 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -246,7 +306,7 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -265,8 +325,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./investigacion.html" aria-current="page"> 
+    <a class="nav-link" href="./investigacion.html"> 
 <span class="menu-text">Investigación</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./divulgacion.html" aria-current="page"> 
+<span class="menu-text">Divulgación</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./docencia.html"> 
@@ -275,6 +339,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./transferencia.html"> 
 <span class="menu-text">Transferencia</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./files/CV_Pablo_Demetrio.pdf" target="_blank"> 
+<span class="menu-text">Descargar CV</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -290,11 +358,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio"> 
-<span class="menu-text"><img src="conicet_logo.svg" style="height: 1.2em; vertical-align: middle; margin-right: 4px;"></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://www.fcnym.unlp.edu.ar/grado_/catedras/geoestadistica/"> 
-<span class="menu-text"><img src="unlp_logo.svg" style="height: 1.2em; vertical-align: middle; margin-right: 4px;"></span></a>
+<span class="menu-text">CONICET</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -305,61 +369,79 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Divulgación Científica</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">En esta página</h2>
-   
-  <ul>
-  <li><a href="#líneas-e-intereses-de-investigación" id="toc-líneas-e-intereses-de-investigación" class="nav-link active" data-scroll-target="#líneas-e-intereses-de-investigación">Líneas e Intereses de Investigación</a></li>
-  <li><a href="#publicaciones" id="toc-publicaciones" class="nav-link" data-scroll-target="#publicaciones">Publicaciones</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWNvdG94aWNvbG9nJUMzJUFEYQ==">Ecotoxicología <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW52ZXJ0ZWJyYWRvcw==">Invertebrados <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGxhZ3VpY2lkYXM=">Plaguicidas <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Investigación</h1>
+
+
+
+
+<p>En esta sección encontrarás resúmenes y artículos de divulgación basados en mis publicaciones científicas e informes técnicos, adaptados para facilitar su acceso y comprensión.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RWNvdG94aWNvbG9nJUMzJUFEYSUyQ1BsYWd1aWNpZGFzJTJDSW52ZXJ0ZWJyYWRvcw==" data-listing-date-sort="1353207600000" data-listing-file-modified-sort="1781928567190" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="389">
+<a href="./posts/hydra_2012.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./foto_Demetrio_B&amp;N.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+¿Un herbicida que afecta a los animales? El caso de la Hydra
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvdG94aWNvbG9nJUMzJUFEYQ=='); return false;">Ecotoxicología</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGxhZ3VpY2lkYXM='); return false;">Plaguicidas</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SW52ZXJ0ZWJyYWRvcw=='); return false;">Invertebrados</div>
+
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental.</p>
-<p>Mi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándose en contaminantes asociados con la actividad antrópica.</p>
-<section id="líneas-e-intereses-de-investigación" class="level2">
-<h2 class="anchored" data-anchor-id="líneas-e-intereses-de-investigación">Líneas e Intereses de Investigación</h2>
-<ul>
-<li><strong>Ecotoxicología y Evaluación de Riesgos</strong>: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.</li>
-<li><strong>Estadística Aplicada y Ciencia de Datos</strong>: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.</li>
-<li><strong>Gestión Ambiental</strong>: Desarrollo de herramientas para la toma de decisiones basadas en evidencia.</li>
-</ul>
-</section>
-<section id="publicaciones" class="level2">
-<h2 class="anchored" data-anchor-id="publicaciones">Publicaciones</h2>
-<p>Para ver una lista completa y actualizada de mis publicaciones científicas, citas e índices bibliométricos, puedes visitar mi perfil oficial:</p>
-<p><a href="https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&amp;hl=es" class="btn btn-primary mt-3">👉 Ver mis publicaciones en Google Scholar</a></p>
-
-
-</section>
-
-</main> <!-- /main -->
+<div class="card-text listing-description delink">
+<p>Evaluación ecotoxicológica revela particularidades en la sensibilidad relativa de Hydra attenuata frente a plaguicidas de uso masivo.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Pablo M. Demetrio
+</div>
+<div class="listing-date">
+18 nov 2012
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No hay resultados</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
