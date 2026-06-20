@@ -8,13 +8,19 @@ A lo largo de mi carrera académica, he participado en el dictado de cursos de g
 
 ### Grado
 
-*   **Geoestadística** Licenciatura en Geoquímica, FCNyM, UNLP 
+*   ***Geoestadística*** 
+Licenciatura en Geoquímica, FCNyM, UNLP 
 
 ### Postgrado
 
-*   **Métodos estadísticos aplicados a las ciencias químicas y biologicas** acreditado para doctorado FCE, UNLP
-*   **Introducción al análisis de datos en las ciencias ambientales con R** acreditado para doctorado FCNyM, UNLP
-*   **Ecotoxicología** y **Riesgo Ambiental** Maestría en Ingeniería Ambiental, UTN, FRLP
+*   ***Métodos estadísticos aplicados a las ciencias químicas y biológicas*** 
+    acreditado para doctorado Facultad de Ciencias Exactas, UNLP
+*   ***Introducción al análisis de datos en las ciencias ambientales con R*** 
+    acreditado para doctorado Facultad de Ciencias Naturales y Museo, UNLP
+*   ***Ecotoxicología*** 
+    Maestría en Ingeniería Ambiental, UTN, FRLP
+*   ***Riesgo Ambiental*** 
+    Maestría en Ingeniería Ambiental, UTN, FRLP
 
 ## Material Didáctico
 

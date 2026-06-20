@@ -2,15 +2,14 @@
 title: "Investigación"
 ---
 
-Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental. 
+Mi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándose en contaminantes asociados con la actividad antrópica. Principalmente plaguicidas y, posteriormente,  contaminantes de preocupacion emergente.
 
-Mi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándose en  contaminantes asociados con la  actividad antrópica.
-
+Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental. 
 
 ## Líneas e Intereses de Investigación
 
-*   **Ecotoxicología y Evaluación de Riesgos**: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.
-*   **Estadística Aplicada y Ciencia de Datos**: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.
+*   **Ecotoxicología | Evaluación de Riesgos**: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.
+*   **Estadística Aplicada | Ciencia de Datos**: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.
 *   **Gestión Ambiental**: Desarrollo de herramientas para la toma de decisiones basadas en evidencia. 
 
 ## Publicaciones 

@@ -2,7 +2,7 @@
 title: "Transferencia"
 ---
 
-Esta sección está dedicada a las actividades de transferencia tecnológica, vinculación y servicios prestados al medio socioproductivo.
+Esta sección está dedicada a las actividades de transferencia tecnológica, vinculación y servicios hacia el medio socioproductivo.
 
 
 ## Transferencia tecnológica
@@ -11,17 +11,17 @@ Esta sección está dedicada a las actividades de transferencia tecnológica, vi
 *  Desarrollo e implementación de software para el cálculo de Niveles Guía
 *  Capacitación a gestores a nivel provincial y nacional  
 
-
 ## Vinculación
 
-*  Participación en redes orientadas a las solucion de problamas (RIOSP-CONICET)
+*  Participación en Redes Institucionales Orientadas a la Solución de Problemas (RIOSP-CONICET) 
 *  Participación en proyectos de extensión de la UNLP orientados a las sutentabilidad territorial
 
 ## Servicios 
 
 *  Responsable de evaluaciones de riesgo ambiental
-*  Peritajes y asesoramiento judicial
-*  Auditoría en indicadores ambientales
 *  Evaluaciones de riesgo vinculadas a seguridad alimentaria y salud pública
+*  Peritajes y asesoramiento judicial en tematica ambiental
+*  Auditoría en indicadores ambientales
 *  Asesoramiento en análisis de datos aplicados a ciencias ambientales.
+*  Bioensayos de toxicidad 
  

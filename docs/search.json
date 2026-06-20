@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Pablo M. Demetrio",
     "section": "",
-    "text": "Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas con lugar de trabajo en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP)\nProfesor Titular de la Universidad Nacional de La Plata."
+    "text": "Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#sobre-mí",
     "title": "Pablo M. Demetrio",
     "section": "",
-    "text": "Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas con lugar de trabajo en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP)\nProfesor Titular de la Universidad Nacional de La Plata."
+    "text": "Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes."
   },
   {
     "objectID": "index.html#formación-académica",
@@ -32,7 +32,7 @@
     "href": "investigacion.html",
     "title": "Investigación",
     "section": "",
-    "text": "Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental.\nMi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándose en contaminantes asociados con la actividad antrópica."
+    "text": "Mi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándose en contaminantes asociados con la actividad antrópica. Principalmente plaguicidas y, posteriormente, contaminantes de preocupacion emergente.\nMi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental."
   },
   {
     "objectID": "investigacion.html#líneas-de-investigación",
@@ -60,7 +60,7 @@
     "href": "docencia.html#cursos-actuales",
     "title": "Docencia",
     "section": "Cursos Actuales",
-    "text": "Cursos Actuales\n\nGrado\n\nGeoestadística Licenciatura en Geoquímica, FCNyM, UNLP\n\n\n\nPostgrado\n\nMétodos estadísticos aplicados a las ciencias químicas y biologicas acreditado para doctorado FCE, UNLP\nIntroducción al análisis de datos en las ciencias ambientales con R acreditado para doctorado FCNyM, UNLP\nEcotoxicología y Riesgo Ambiental Maestría en Ingeniería Ambiental, UTN, FRLP"
+    "text": "Cursos Actuales\n\nGrado\n\nGeoestadística Licenciatura en Geoquímica, FCNyM, UNLP\n\n\n\nPostgrado\n\nMétodos estadísticos aplicados a las ciencias químicas y biológicas acreditado para doctorado Facultad de Ciencias Exactas, UNLP\nIntroducción al análisis de datos en las ciencias ambientales con R acreditado para doctorado Facultad de Ciencias Naturales y Museo, UNLP\nEcotoxicología Maestría en Ingeniería Ambiental, UTN, FRLP\nRiesgo Ambiental Maestría en Ingeniería Ambiental, UTN, FRLP"
   },
   {
     "objectID": "docencia.html#material-didáctico",
@@ -74,7 +74,7 @@
     "href": "transferencia.html",
     "title": "Transferencia",
     "section": "",
-    "text": "Esta sección está dedicada a las actividades de transferencia tecnológica, vinculación y servicios prestados al medio socioproductivo."
+    "text": "Esta sección está dedicada a las actividades de transferencia tecnológica, vinculación y servicios hacia el medio socioproductivo."
   },
   {
     "objectID": "transferencia.html#servicios-tecnológicos-de-alto-nivel-stan",
@@ -242,7 +242,7 @@
     "href": "investigacion.html#líneas-e-intereses-de-investigación",
     "title": "Investigación",
     "section": "Líneas e Intereses de Investigación",
-    "text": "Líneas e Intereses de Investigación\n\nEcotoxicología y Evaluación de Riesgos: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.\nEstadística Aplicada y Ciencia de Datos: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.\nGestión Ambiental: Desarrollo de herramientas para la toma de decisiones basadas en evidencia."
+    "text": "Líneas e Intereses de Investigación\n\nEcotoxicología | Evaluación de Riesgos: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.\nEstadística Aplicada | Ciencia de Datos: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.\nGestión Ambiental: Desarrollo de herramientas para la toma de decisiones basadas en evidencia."
   },
   {
     "objectID": "transferencia.html#transferencia-tecnológica",
@@ -256,13 +256,20 @@
     "href": "transferencia.html#vinculación",
     "title": "Transferencia",
     "section": "Vinculación",
-    "text": "Vinculación\n\nParticipación en redes orientadas a las solucion de problamas (RIOSP-CONICET)\nParticipación en proyectos de extensión de la UNLP orientados a las sutentabilidad territorial"
+    "text": "Vinculación\n\nParticipación en Redes Institucionales Orientadas a la Solución de Problemas (RIOSP-CONICET)\nParticipación en proyectos de extensión de la UNLP orientados a las sutentabilidad territorial"
   },
   {
     "objectID": "transferencia.html#servicios",
     "href": "transferencia.html#servicios",
     "title": "Transferencia",
     "section": "Servicios",
-    "text": "Servicios\n\nResponsable de evaluaciones de riesgo ambiental\nPeritajes y asesoramiento judicial\nAuditoría en indicadores ambientales\nEvaluaciones de riesgo vinculadas a seguridad alimentaria y salud pública\nAsesoramiento en análisis de datos aplicados a ciencias ambientales."
+    "text": "Servicios\n\nResponsable de evaluaciones de riesgo ambiental\nEvaluaciones de riesgo vinculadas a seguridad alimentaria y salud pública\nPeritajes y asesoramiento judicial en tematica ambiental\nAuditoría en indicadores ambientales\nAsesoramiento en análisis de datos aplicados a ciencias ambientales.\nBioensayos de toxicidad"
+  },
+  {
+    "objectID": "index.html#cargos-actuales",
+    "href": "index.html#cargos-actuales",
+    "title": "Pablo M. Demetrio",
+    "section": "Cargos actuales",
+    "text": "Cargos actuales\nInvestigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas con lugar de trabajo en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP)\nProfesor Titular de la Universidad Nacional de La Plata."
   }
 ]
