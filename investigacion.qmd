@@ -1,0 +1,19 @@
+---
+title: "Investigación"
+---
+
+Mi investigación se centra en la **evaluación del impacto de contaminantes en ambientes de la región pampeana**.
+
+El objetivo principal es generar estrategias integradas de evaluación del riesgo ambiental mediante el cruce de datos ecotoxicológicos, perfiles de exposición en el campo y herramientas estadísticas avanzadas.
+
+## Líneas de Investigación
+
+*   **Ecotoxicología Acuática y Terrestre**: Análisis de los efectos de pesticidas y otros contaminantes sobre especies clave.
+*   **Ciencia de Datos Ambientales**: Aplicación de métodos estadísticos para el diagnóstico y pronóstico de la contaminación.
+*   **Gestión Ambiental**: Desarrollo de herramientas para la toma de decisiones basada en evidencia.
+
+## Publicaciones Destacadas
+
+Para ver una lista completa y actualizada de mis publicaciones científicas, citas e índices bibliométricos, puedes visitar mi perfil oficial:
+
+[👉 Ver mis publicaciones en Google Scholar](https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es){.btn .btn-primary .mt-3}

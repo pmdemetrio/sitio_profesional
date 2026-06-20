@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sitio_profesional",
+    "title": "Dr. Pablo Martín Demetrio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental.\nSoy Investigador Independiente de CONICET en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP) y Profesor Titular Ordinario de la Universidad Nacional de La Plata."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,61 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#sobre-mí",
+    "href": "index.html#sobre-mí",
+    "title": "Dr. Pablo Martín Demetrio",
+    "section": "",
+    "text": "Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental.\nSoy Investigador Independiente de CONICET en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP) y Profesor Titular Ordinario de la Universidad Nacional de La Plata."
+  },
+  {
+    "objectID": "index.html#formación-académica",
+    "href": "index.html#formación-académica",
+    "title": "Dr. Pablo Martín Demetrio",
+    "section": "Formación Académica",
+    "text": "Formación Académica\nDoctor de la Facultad de Ciencias Exactas (2008 - 2012)\nFacultad de Ciencias Exactas, Universidad Nacional de La Plata\nEspecialista en Gestión Ambiental (2006 - 2008)\nInstituto Tecnológico de Buenos Aires (ITBA)\nLicenciado en Biología (Or. Ecología) (1999 - 2006)\nUniversidad Nacional de La Plata"
+  },
+  {
+    "objectID": "investigacion.html",
+    "href": "investigacion.html",
+    "title": "Investigación",
+    "section": "",
+    "text": "Mi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana.\nEl objetivo principal es generar estrategias integradas de evaluación del riesgo ambiental mediante el cruce de datos ecotoxicológicos, perfiles de exposición en el campo y herramientas estadísticas avanzadas."
+  },
+  {
+    "objectID": "investigacion.html#líneas-de-investigación",
+    "href": "investigacion.html#líneas-de-investigación",
+    "title": "Investigación",
+    "section": "Líneas de Investigación",
+    "text": "Líneas de Investigación\n\nEcotoxicología Acuática y Terrestre: Análisis de los efectos de pesticidas y otros contaminantes sobre especies clave.\nCiencia de Datos Ambientales: Aplicación de métodos estadísticos para el diagnóstico y pronóstico de la contaminación.\nGestión Ambiental: Desarrollo de herramientas para la toma de decisiones basada en evidencia."
+  },
+  {
+    "objectID": "investigacion.html#publicaciones-destacadas",
+    "href": "investigacion.html#publicaciones-destacadas",
+    "title": "Investigación",
+    "section": "Publicaciones Destacadas",
+    "text": "Publicaciones Destacadas\nPara ver una lista completa y actualizada de mis publicaciones científicas, citas e índices bibliométricos, puedes visitar mi perfil oficial:\n👉 Ver mis publicaciones en Google Scholar"
+  },
+  {
+    "objectID": "docencia.html",
+    "href": "docencia.html",
+    "title": "Docencia",
+    "section": "",
+    "text": "A lo largo de mi carrera académica, he participado en el dictado de cursos de grado y posgrado, enfocándome en la formación de recursos humanos en las áreas de ecotoxicología y estadística aplicada."
+  },
+  {
+    "objectID": "docencia.html#cursos-actuales",
+    "href": "docencia.html#cursos-actuales",
+    "title": "Docencia",
+    "section": "Cursos Actuales",
+    "text": "Cursos Actuales\nAñade aquí los cursos que dictas actualmente.\n\nCurso 1: Breve descripción del curso y tu rol (ej. Profesor Adjunto, JTP).\nCurso 2: Breve descripción del curso."
+  },
+  {
+    "objectID": "docencia.html#material-didáctico",
+    "href": "docencia.html#material-didáctico",
+    "title": "Docencia",
+    "section": "Material Didáctico",
+    "text": "Material Didáctico\n\nRepositorio de Diapositivas\nGuías de Trabajos Prácticos\nCódigo y Ejercicios Prácticos (R/Python)\n\n(Nota: Puedes enlazar aquí documentos PDF, presentaciones o repositorios de GitHub con el material de tus clases)."
   }
 ]

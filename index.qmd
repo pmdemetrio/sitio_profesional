@@ -1,7 +1,34 @@
 ---
-title: "sitio_profesional"
+title: "Dr. Pablo Martín Demetrio"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:tu-email@ejemplo.com
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es
+    - text: CONICET
+      href: https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio
 ---
 
-This is a Quarto website.
+## Sobre Mí
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental.
+
+Soy Investigador Independiente de CONICET en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP) y Profesor Titular Ordinario de la Universidad Nacional de La Plata.
+
+---
+
+## Formación Académica
+
+**Doctor de la Facultad de Ciencias Exactas** (2008 - 2012)  
+Facultad de Ciencias Exactas, Universidad Nacional de La Plata
+
+**Especialista en Gestión Ambiental** (2006 - 2008)  
+Instituto Tecnológico de Buenos Aires (ITBA)
+
+**Licenciado en Biología (Or. Ecología)** (1999 - 2006)  
+Universidad Nacional de La Plata
