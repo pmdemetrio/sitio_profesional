@@ -10,15 +10,19 @@ about:
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es
+    - text: "ORCID"
+      href: https://orcid.org/0000-0002-2512-9500
     - text: "<img src='conicet_logo.svg' style='height: 1.2em; vertical-align: middle; margin-right: 4px;' /> CONICET"
       href: https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio
     - text: "<img src='unlp_logo.svg' style='height: 1.6em; vertical-align: middle; margin-right: 4px;' /> UNLP"
       href: https://www.fcnym.unlp.edu.ar/grado_/catedras/geoestadistica/
 ---
 
-## Sobre Mí
+## Sobre mí
 
-Mi área de trabajo se enmarca en la ***ecotoxicología*** y tiene como eje la ***evaluación de riesgos***. Utilizo **métodos estadísticos aplicados a las ciencias ambientales**, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de ***estrategias integradas de evaluación del impacto de contaminantes***. 
+Soy un científico y profesor universitario argentino.
+
+Mi área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utilizo métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. 
 
 ---
 
@@ -33,10 +37,10 @@ Mi área de trabajo se enmarca en la ***ecotoxicología*** y tiene como eje la *
 ## Formación Académica
 
 **Doctor de la Facultad de Ciencias Exactas** (2008 - 2012)  
-*Facultad de Ciencias Exactas, Universidad Nacional de La Plata*
+*Facultad de Ciencias Exactas, Universidad Nacional de La Plata* (FCE, UNLP)
 
 **Especialista en Gestión Ambiental** (2006 - 2008)  
 *Instituto Tecnológico de Buenos Aires* (ITBA)
 
 **Licenciado en Biología (Or. Ecología)** (1999 - 2006)  
-*Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata*
+*Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata* (FCNyM, UNLP)
