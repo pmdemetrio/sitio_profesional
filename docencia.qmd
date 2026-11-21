@@ -1,8 +1,8 @@
 ---
-title: "Docencia y Formación"
+title: "Docencia"
 ---
 
-Pablo M. Demetrio cuenta con una amplia trayectoria académica dedicada tanto a la docencia universitaria como a la formación integral de jóvenes investigadores y profesionales en áreas de frontera como la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales.
+Pablo M. Demetrio cuenta con una trayectoria continuada en la docencia universitaria de grado y posgrado, dictando materias orientadas a la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales en diversas facultades y casas de estudio.
 
 ---
 
@@ -24,21 +24,9 @@ Pablo M. Demetrio cuenta con una amplia trayectoria académica dedicada tanto a 
 
 ---
 
-## Formación de Recursos Humanos & Mentoría
-
-La formación de nuevos profesionales e investigadores es uno de los pilares de su labor académica:
-
-* **Dirección y Codirección de Tesis Doctorales**: Formación de doctores en el marco de programas de posgrado de la UNLP y otras universidades nacionales.
-* **Dirección de Becarios de Investigación**: Becas doctorales y posdoctorales financiadas por CONICET, CIC y UNLP.
-* **Tesinas y Trabajos Finales de Grado**: Orientación de estudiantes de licenciatura en biología, geoquímica y ciencias ambientales.
-
-*(Si eres estudiante o graduado con interés en realizar una tesis de grado o postularte a becas de doctorado/posdoctorado en el CIM, puedes contactarte directamente por correo).*
-
----
-
 ## Recursos Didácticos & Clases Invitadas {#recursos}
 
-Espacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos, conferencias o seminarios invitados.
+Espacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos regulares, conferencias y seminarios invitados.
 
 ::: {.resource-box}
 ### 📚 Diapositivas y Materiales de Clases

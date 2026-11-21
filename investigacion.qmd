@@ -1,5 +1,5 @@
 ---
-title: "Investigación Científica"
+title: "Investigación"
 ---
 
 La actividad científica de Pablo M. Demetrio se enfoca en la evaluación integral del impacto de contaminantes en ecosistemas acuáticos y terrestres de la región pampeana, con especial énfasis en aquellos derivados de la actividad agroproductiva y urbana (principalmente plaguicidas y contaminantes de preocupación emergente).
@@ -28,7 +28,7 @@ El propósito central radica en el desarrollo y aplicación de herramientas bioa
 
 ## Proyectos Acreditados y Financiamiento
 
-Las investigaciones se financian mediante proyectos de investigación con financiamiento competitivo, incluyendo:
+Las investigaciones se financian mediante proyectos con financiamiento competitivo, incluyendo:
 * **Proyectos de Investigación Científica y Tecnológica (PICT)** – Agencia I+D+i.
 * **Proyectos de Investigación Plurianuales (PIP)** – CONICET.
 * **Programas de Incentivos a la Investigación** – UNLP.

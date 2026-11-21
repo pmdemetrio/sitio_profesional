@@ -17,11 +17,11 @@ website:
       - href: index.qmd
         text: Inicio
       - href: investigacion.qmd
-        text: Investigación Científica
+        text: Investigación
       - href: docencia.qmd
-        text: Docencia y Formación
+        text: Docencia
       - href: transferencia.qmd
-        text: Asesoramiento Técnico
+        text: Transferencia
 
     right:
       - icon: envelope
