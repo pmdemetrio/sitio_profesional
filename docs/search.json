@@ -2,72 +2,86 @@
   {
     "objectID": "transferencia.html",
     "href": "transferencia.html",
-    "title": "Servicios Profesionales & Transferencia",
+    "title": "Asesoramiento Técnico & Transferencia",
     "section": "",
-    "text": "Pablo M. Demetrio canaliza la transferencia de conocimiento científico hacia el medio socioproductivo, el poder judicial y los organismos públicos a través de los Servicios Tecnológicos de Alto Nivel (STAN) del CONICET y los convenios de vinculación y transferencia de la Universidad Nacional de La Plata (UNLP)."
+    "text": "Pablo M. Demetrio canaliza la transferencia de conocimiento científico hacia el medio socioproductivo, el poder judicial, organismos gubernamentales y agencias técnicas mediante los Servicios Tecnológicos de Alto Nivel (STAN) del CONICET y los convenios de vinculación y transferencia de la Universidad Nacional de La Plata (UNLP)."
   },
   {
-    "objectID": "transferencia.html#servicios-profesionales-y-asesoramiento-técnico",
-    "href": "transferencia.html#servicios-profesionales-y-asesoramiento-técnico",
-    "title": "Servicios Profesionales & Transferencia",
-    "section": "Servicios Profesionales y Asesoramiento Técnico",
-    "text": "Servicios Profesionales y Asesoramiento Técnico\n\n1. Peritajes Ambientales y Asesoramiento Judicial\n\nActuación como perito y consultor técnico de parte o perito oficial en litigios ambientales.\nAnálisis de causalidad, determinación de daño ambiental y evaluación probatoria sobre contaminación de aguas, suelos y biota.\n\n\n\n2. Evaluación de Riesgo Ambiental y Salud Pública\n\nEstudios cuantitativos y cualitativos de evaluación de riesgo ambiental (ERA) por agroquímicos y sustancias industriales.\nEvaluaciones de riesgo asociadas a la seguridad alimentaria y calidad de fuentes de agua para consumo.\nAuditoría y diseño de baterías de indicadores ambientales para diagnóstico territorial.\n\n\n\n3. Bioensayos Ecotoxicológicos\n\nDeterminación de toxicidad aguda y crónica en organismos modelo acuáticos y terrestres.\nEnsayos de laboratorio estandarizados para evaluación de efluentes, aguas superficiales y matrices complejas.\n\n\n\n4. Ciencia de Datos y Bioestadística Ambiental\n\nProcesamiento y modelado estadístico avanzado de bases de datos de monitoreo ambiental.\nAnálisis espacial, geoestadística y desarrollo de scripts automatizados en lenguaje R.\nDiseño muestral optimizado para programas de vigilancia ambiental."
+    "objectID": "transferencia.html#servicios-especializados-y-consultoría-técnica",
+    "href": "transferencia.html#servicios-especializados-y-consultoría-técnica",
+    "title": "Asesoramiento Técnico & Transferencia",
+    "section": "Servicios Especializados y Consultoría Técnica",
+    "text": "Servicios Especializados y Consultoría Técnica\n\n1. Peritajes Ambientales y Asesoramiento Judicial\n\nActuación como perito oficial o consultor técnico de parte en litigios y causas judiciales de índole ambiental.\nAnálisis de nexos de causalidad, evaluación probatoria de daño ambiental y diagnóstico de contaminación en matrices acuáticas, suelos y biota.\nElaboración de dictámenes e informes periciales fundamentados en evidencia científica y estándares normativos.\n\n\n\n2. Evaluación de Riesgo Ambiental (ERA) y Seguridad Alimentaria\n\nEstudios cuantitativos y probabilísticos de riesgo ecológico por plaguicidas, metales pesados y contaminantes de preocupación emergente.\nEvaluaciones de riesgo vinculadas a la inocuidad alimentaria, fuentes de agua para consumo y salud pública.\nAuditoría ambiental y diseño de baterías de indicadores ecotoxicológicos para diagnóstico territorial.\n\n\n\n3. Bioensayos Ecotoxicológicos de Laboratorio\n\nEnsayos estandarizados de toxicidad aguda y crónica en organismos modelo acuáticos y terrestres.\nEvaluación ecotoxicológica de efluentes industriales, vertidos urbanos y aguas superficiales para control de calidad y cumplimiento normativo.\n\n\n\n4. Ciencia de Datos y Bioestadística Ambiental\n\nProcesamiento avanzado, control de calidad y modelado de grandes bases de datos de monitoreo ambiental.\nAnálisis espacial, geoestadística y desarrollo de flujos automatizados de cálculo en lenguaje R.\nOptimización de diseños de muestreo para redes de vigilancia ambiental."
   },
   {
-    "objectID": "transferencia.html#transferencia-tecnológica-y-vinculación",
-    "href": "transferencia.html#transferencia-tecnológica-y-vinculación",
-    "title": "Servicios Profesionales & Transferencia",
-    "section": "Transferencia Tecnológica y Vinculación",
-    "text": "Transferencia Tecnológica y Vinculación\n\nNormalización Técnica: Participación activa en comités técnicos para la redacción y revisión de normas IRAM en temáticas ambientales y ecotoxicológicas.\nDesarrollo de Software Especializado: Implementación de algoritmos y herramientas computacionales para la derivación y cálculo de Niveles Guía de Calidad Ambiental.\nCapacitación a Gestores: Dictado de cursos de perfeccionamiento para funcionarios y equipos técnicos de organismos provinciales y nacionales.\nRedes Institucionales: Participación en Redes Institucionales Orientadas a la Solución de Problemas (RIOSP - CONICET) y proyectos de sustentabilidad territorial."
+    "objectID": "transferencia.html#transferencia-tecnológica-normalización-y-redes",
+    "href": "transferencia.html#transferencia-tecnológica-normalización-y-redes",
+    "title": "Asesoramiento Técnico & Transferencia",
+    "section": "Transferencia Tecnológica, Normalización y Redes",
+    "text": "Transferencia Tecnológica, Normalización y Redes\n\nComités de Normalización Técnica: Participación activa en el Instituto Argentino de Normalización y Certificación (IRAM) para la redacción y revisión de normas técnicas sobre calidad ambiental y ecotoxicología.\nSoftware para Niveles Guía: Diseño e implementación de algoritmos y herramientas informáticas para la derivación automatizada de Niveles Guía de Calidad Ambiental.\nCapacitación a Organismos de Gestión: Dictado de cursos y talleres de perfeccionamiento para funcionarios, técnicos y decisores de administraciones provinciales y nacionales.\nRedes Institucionales: Integración de las Redes Institucionales Orientadas a la Solución de Problemas (RIOSP - CONICET) y proyectos de sustentabilidad territorial de la UNLP."
   },
   {
     "objectID": "transferencia.html#modalidades-de-contratación-y-consultas",
     "href": "transferencia.html#modalidades-de-contratación-y-consultas",
-    "title": "Servicios Profesionales & Transferencia",
+    "title": "Asesoramiento Técnico & Transferencia",
     "section": "Modalidades de Contratación y Consultas",
-    "text": "Modalidades de Contratación y Consultas\nLos servicios se formalizan bajo los marcos institucionales de: * STAN (Servicios Tecnológicos de Alto Nivel) – CONICET * Convenios de Asistencia Técnica – UNLP * Consultoría independiente y peritajes particulares.\nPara solicitar asesoramiento preliminar, presupuestos formales o coordinar una reunión de trabajo:\n\n✉ Solicitar Asesoramiento / Presupuesto 📄 Descargar CV de Servicios (PDF)"
+    "text": "Modalidades de Contratación y Consultas\nLos servicios y asesoramientos se formalizan a través de los canales institucionales correspondientes: * STAN (Servicios Tecnológicos de Alto Nivel) – CONICET * Convenios de Asistencia Técnica y Transferencia – UNLP * Consultoría independiente y peritajes judiciales directos.\nPara solicitar asesoramiento preliminar, acordar alcances metodológicos o solicitar presupuestos formales:\n\n✉ Solicitar Asesoramiento / Presupuesto 📄 Descargar CV de Servicios (PDF)"
   },
   {
     "objectID": "investigacion.html",
     "href": "investigacion.html",
     "title": "Investigación Científica",
     "section": "",
-    "text": "La actividad de investigación de Pablo M. Demetrio se centra en la evaluación del impacto de contaminantes en ecosistemas acuáticos y terrestres de la región pampeana, con especial énfasis en aquellos derivados de la actividad agroproductiva y urbana (principalmente plaguicidas y contaminantes de preocupación emergente).\nEl objetivo central de sus proyectos radica en el desarrollo y aplicación de herramientas metodológicas para el diagnóstico y pronóstico de la contaminación, orientadas a fundamentar la toma de decisiones en el marco de la gestión y la normativa ambiental."
+    "text": "La actividad científica de Pablo M. Demetrio se enfoca en la evaluación integral del impacto de contaminantes en ecosistemas acuáticos y terrestres de la región pampeana, con especial énfasis en aquellos derivados de la actividad agroproductiva y urbana (principalmente plaguicidas y contaminantes de preocupación emergente).\nEl propósito central radica en el desarrollo y aplicación de herramientas bioanalíticas y computacionales para el diagnóstico y pronóstico ambiental, aportando evidencia científica sólida para la gestión y la toma de decisiones."
   },
   {
     "objectID": "investigacion.html#líneas-de-investigación",
     "href": "investigacion.html#líneas-de-investigación",
     "title": "Investigación Científica",
     "section": "Líneas de Investigación",
-    "text": "Líneas de Investigación\n\n1. Ecotoxicología y Evaluación de Riesgos Ambientales\n\nGeneración de información de base química y ecotoxicológica sobre contaminantes en cuencas pampeanas.\nDeterminación de perfiles de exposición y caracterización de efectos biológicos mediante bioensayos de toxicidad aguda y crónica.\nDerivación de Niveles Guía de Calidad de Agua para la protección de la biota acuática.\n\n\n\n2. Estadística Aplicada y Ciencia de Datos Ambientales\n\nModelado cuantitativo, análisis multivariado y bioestadística aplicada a monitoreos ambientales.\nImplementación de flujos reproducibles de análisis de datos y paquetes en entorno estadístico R.\nIntegración de modelos predictivos de transporte, destino y riesgo ambiental de sustancias químicas.\n\n\n\n3. Herramientas para la Gestión Ambiental\n\nDesarrollo de metodologías basadas en evidencia científica para autoridades de aplicación a nivel municipal, provincial y nacional.\nParticipación en comités técnicos para el establecimiento y revisión de estándares de calidad ambiental."
+    "text": "Líneas de Investigación\n\n1. Ecotoxicología y Evaluación de Riesgos Ambientales\n\nGeneración de información de base química y ecotoxicológica en cuencas de llanura.\nDeterminación de perfiles de exposición y evaluación de efectos biológicos mediante bioensayos con organismos no blanco (peces, anfibios e invertebrados).\nDerivación de Niveles Guía de Calidad de Agua para la protección de la biota acuática y estimación de riesgos probabilísticos.\n\n\n\n2. Estadística Aplicada y Ciencia de Datos Ambientales\n\nBioestadística ambiental, análisis multivariado y geoestadística aplicada al monitoreo de cuencas.\nImplementación de flujos de análisis reproducibles en entorno estadístico R.\nIntegración de modelos predictivos de transporte, destino ambiental y mezcla de sustancias químicas.\n\n\n\n3. Gestión y Diagnóstico Basado en Evidencia\n\nDesarrollo de herramientas analíticas para autoridades de aplicación a nivel municipal, provincial y nacional.\nAporte técnico-científico para la formulación y actualización de estándares normativos de calidad ambiental."
   },
   {
-    "objectID": "investigacion.html#publicaciones-científicas-y-producción",
-    "href": "investigacion.html#publicaciones-científicas-y-producción",
+    "objectID": "investigacion.html#proyectos-acreditados-y-financiamiento",
+    "href": "investigacion.html#proyectos-acreditados-y-financiamiento",
     "title": "Investigación Científica",
-    "section": "Publicaciones Científicas y Producción",
-    "text": "Publicaciones Científicas y Producción\nLa producción científica incluye artículos en revistas internacionales indexadas con referato estricto, capítulos de libros y presentaciones en congresos de la especialidad.\nPara consultar el listado completo, actualizado en tiempo real con métricas bibliométricas y citas:\n\n👉 Perfil en Google Scholar 🌐 Registro ORCID (0000-0002-2512-9500) 🏛 Ficha de Investigador CONICET 📄 Descargar CV Completo (PDF)"
+    "section": "Proyectos Acreditados y Financiamiento",
+    "text": "Proyectos Acreditados y Financiamiento\nLas investigaciones se financian mediante proyectos de investigación con financiamiento competitivo, incluyendo: * Proyectos de Investigación Científica y Tecnológica (PICT) – Agencia I+D+i. * Proyectos de Investigación Plurianuales (PIP) – CONICET. * Programas de Incentivos a la Investigación – UNLP. * Convenios y fondos de cooperación institucional orientados a problemáticas ambientales específicas."
+  },
+  {
+    "objectID": "investigacion.html#sociedades-científicas-y-redes",
+    "href": "investigacion.html#sociedades-científicas-y-redes",
+    "title": "Investigación Científica",
+    "section": "Sociedades Científicas y Redes",
+    "text": "Sociedades Científicas y Redes\n\nMiembro activo de la Society of Environmental Toxicology and Chemistry (SETAC).\nParticipación regular como expositor, panelista y evaluador en congresos nacionales e internacionales de ecotoxicología, química ambiental y estadística."
+  },
+  {
+    "objectID": "investigacion.html#producción-científica-y-publicaciones",
+    "href": "investigacion.html#producción-científica-y-publicaciones",
+    "title": "Investigación Científica",
+    "section": "Producción Científica y Publicaciones",
+    "text": "Producción Científica y Publicaciones\nLa producción incluye publicaciones en revistas científicas indexadas de alto impacto internacional, capítulos de libros y actas de congresos.\nPara consultar el listado completo y actualizado de publicaciones, citas e índices bibliométricos:\n\n👉 Perfil en Google Scholar 🌐 Registro ORCID (0000-0002-2512-9500) 🏛 Ficha de Investigador CONICET 📄 Descargar CV Completo (PDF)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr. Pablo M. Demetrio",
     "section": "",
-    "text": "Pablo M. Demetrio es Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP). Desarrolla sus actividades en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).\nSu especialidad se centra en la ecotoxicología y la evaluación de riesgos ambientales, integrando métodos bioestadísticos y herramientas de ciencia de datos aplicadas a problemáticas ambientales. Su trabajo busca generar perfiles de exposición y evaluar efectos biológicos para el diseño de estrategias integradas frente al impacto de contaminantes de origen antrópico, con énfasis en plaguicidas y contaminantes de preocupación emergente."
+    "text": "Pablo M. Demetrio es Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP). Desarrolla sus actividades en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).\nSu especialidad se centra en la ecotoxicología y la evaluación de riesgos ambientales, integrando métodos bioestadísticos y herramientas de ciencia de datos aplicadas a problemáticas ambientales. Su trabajo articula la generación de perfiles de exposición y evaluación de efectos biológicos frente a contaminantes de origen antrópico (con énfasis en plaguicidas y compuestos de preocupación emergente) con la transferencia técnica hacia organismos de gestión, peritajes judiciales y el sector productivo."
   },
   {
     "objectID": "index.html#perfil-profesional",
     "href": "index.html#perfil-profesional",
     "title": "Dr. Pablo M. Demetrio",
     "section": "",
-    "text": "Pablo M. Demetrio es Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP). Desarrolla sus actividades en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).\nSu especialidad se centra en la ecotoxicología y la evaluación de riesgos ambientales, integrando métodos bioestadísticos y herramientas de ciencia de datos aplicadas a problemáticas ambientales. Su trabajo busca generar perfiles de exposición y evaluar efectos biológicos para el diseño de estrategias integradas frente al impacto de contaminantes de origen antrópico, con énfasis en plaguicidas y contaminantes de preocupación emergente."
+    "text": "Pablo M. Demetrio es Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP). Desarrolla sus actividades en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).\nSu especialidad se centra en la ecotoxicología y la evaluación de riesgos ambientales, integrando métodos bioestadísticos y herramientas de ciencia de datos aplicadas a problemáticas ambientales. Su trabajo articula la generación de perfiles de exposición y evaluación de efectos biológicos frente a contaminantes de origen antrópico (con énfasis en plaguicidas y compuestos de preocupación emergente) con la transferencia técnica hacia organismos de gestión, peritajes judiciales y el sector productivo."
   },
   {
-    "objectID": "index.html#áreas-de-actividad",
-    "href": "index.html#áreas-de-actividad",
+    "objectID": "index.html#pilares-de-actividad",
+    "href": "index.html#pilares-de-actividad",
     "title": "Dr. Pablo M. Demetrio",
-    "section": "Áreas de Actividad",
-    "text": "Áreas de Actividad\n\n\nCientífica ### Investigación Aplicada Estudio del impacto ecotoxicológico en cuencas y agroecosistemas pampeanos, generación de datos de base e integración de modelos para diagnóstico ambiental.\nVer Líneas & Publicaciones →\n\n\nTécnica & Judicial ### Servicios & Peritajes Evaluaciones de riesgo ambiental, peritajes judiciales en materia ambiental, bioensayos estandarizados y desarrollo de software para niveles guía.\nConsultar Servicios →\n\n\nAcadémica ### Docencia & Recursos Cátedras de grado y posgrado en geoestadística, ciencia de datos con R y ecotoxicología. Descarga de materiales y presentaciones de clases.\nAcceder a Docencia & Clases →"
+    "section": "Pilares de Actividad",
+    "text": "Pilares de Actividad\n\n\nCiencia & Proyectos ### Investigación Científica Líneas de trabajo en ecotoxicología de cuencas pampeanas, proyectos de investigación acreditados y producción científica en revistas indexadas.\nVer Investigación Científica →\n\n\nAcademia & Mentoría ### Docencia y Formación Cátedras universitarias de grado, cursos de posgrado/doctorado, dirección de tesistas y becarios, y repositorio de diapositivas y clases.\nVer Docencia y Formación →\n\n\nServicios & Peritajes ### Asesoramiento Técnico Peritajes ambientales y judiciales, evaluaciones de riesgo, bioensayos, normas IRAM y consultoría técnica bajo marco STAN (CONICET) y UNLP.\nConsultar Servicios & Transferencia →"
   },
   {
     "objectID": "index.html#cargos-actuales",
@@ -88,34 +102,41 @@
     "href": "index.html#contacto-institucional-profesional",
     "title": "Dr. Pablo M. Demetrio",
     "section": "Contacto Institucional & Profesional",
-    "text": "Contacto Institucional & Profesional\nPara consultas académicas, solicitudes de peritajes judiciales, evaluaciones de riesgo o vinculación tecnológica:\n\n✉ Enviar Consulta por Correo 📄 Descargar CV Completo (PDF)"
+    "text": "Contacto Institucional & Profesional\nPara consultas de investigación, dirección de tesis/becas, peritajes judiciales o servicios técnicos:\n\n✉ Enviar Consulta por Correo 📄 Descargar CV Completo (PDF)"
   },
   {
     "objectID": "docencia.html",
     "href": "docencia.html",
-    "title": "Docencia & Recursos",
+    "title": "Docencia y Formación",
     "section": "",
-    "text": "Pablo M. Demetrio cuenta con una trayectoria continuada en la formación de recursos humanos de grado y posgrado, liderando cursos orientados a la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales."
+    "text": "Pablo M. Demetrio cuenta con una amplia trayectoria académica dedicada tanto a la docencia universitaria como a la formación integral de jóvenes investigadores y profesionales en áreas de frontera como la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales."
   },
   {
-    "objectID": "docencia.html#cursos-actuales",
-    "href": "docencia.html#cursos-actuales",
-    "title": "Docencia & Recursos",
-    "section": "Cursos Actuales",
-    "text": "Cursos Actuales\n\nGrado\n\nGeoestadística\nProfesor Titular. Licenciatura en Geoquímica, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP).\n\n\n\nPosgrado\n\nIntroducción al análisis de datos en las ciencias ambientales con R\nCurso de doctorado acreditado, Facultad de Ciencias Naturales y Museo (FCNyM, UNLP).\nMétodos estadísticos aplicados a las ciencias químicas y biológicas\nCurso de doctorado acreditado, Facultad de Ciencias Exactas (FCE, UNLP).\nEcotoxicología\nMaestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP).\nRiesgo Ambiental\nMaestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP)."
+    "objectID": "docencia.html#cursos-universitarios",
+    "href": "docencia.html#cursos-universitarios",
+    "title": "Docencia y Formación",
+    "section": "Cursos Universitarios",
+    "text": "Cursos Universitarios\n\nGrado\n\nGeoestadística\nProfesor Titular. Licenciatura en Geoquímica, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP).\n\n\n\nPosgrado y Doctorado\n\nIntroducción al análisis de datos en las ciencias ambientales con R\nCurso de posgrado/doctorado acreditado, Facultad de Ciencias Naturales y Museo (FCNyM, UNLP).\nMétodos estadísticos aplicados a las ciencias químicas y biológicas\nCurso de posgrado/doctorado acreditado, Facultad de Ciencias Exactas (FCE, UNLP).\nEcotoxicología\nMaestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP).\nRiesgo Ambiental\nMaestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP)."
+  },
+  {
+    "objectID": "docencia.html#formación-de-recursos-humanos-mentoría",
+    "href": "docencia.html#formación-de-recursos-humanos-mentoría",
+    "title": "Docencia y Formación",
+    "section": "Formación de Recursos Humanos & Mentoría",
+    "text": "Formación de Recursos Humanos & Mentoría\nLa formación de nuevos profesionales e investigadores es uno de los pilares de su labor académica:\n\nDirección y Codirección de Tesis Doctorales: Formación de doctores en el marco de programas de posgrado de la UNLP y otras universidades nacionales.\nDirección de Becarios de Investigación: Becas doctorales y posdoctorales financiadas por CONICET, CIC y UNLP.\nTesinas y Trabajos Finales de Grado: Orientación de estudiantes de licenciatura en biología, geoquímica y ciencias ambientales.\n\n(Si eres estudiante o graduado con interés en realizar una tesis de grado o postularte a becas de doctorado/posdoctorado en el CIM, puedes contactarte directamente por correo)."
   },
   {
     "objectID": "docencia.html#recursos",
     "href": "docencia.html#recursos",
-    "title": "Docencia & Recursos",
+    "title": "Docencia y Formación",
     "section": "Recursos Didácticos & Clases Invitadas",
-    "text": "Recursos Didácticos & Clases Invitadas\nEspacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos, seminarios y conferencias invitadas.\n\n📚 Materiales de Cursos y Conferencias\nLos materiales de clases regulares, diapositivas de presentaciones invitadas y códigos de análisis en R se publican en este apartado y en repositorios específicos para cada curso.\nSi asististe a una clase o charla invitada reciente y necesitas el material de apoyo o las diapositivas en PDF, puedes solicitar el acceso o enlace directo al repositorio:\n✉ Solicitar Material de Clase / Taller"
+    "text": "Recursos Didácticos & Clases Invitadas\nEspacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos, conferencias o seminarios invitados.\n\n📚 Diapositivas y Materiales de Clases\nLos materiales de cátedra, las filminas de presentaciones invitadas y los scripts de apoyo en R se publican en este apartado y en repositorios específicos para cada materia.\nSi asististe a una clase o charla invitada reciente y necesitas el material en PDF o los ejercicios prácticos:\n✉ Solicitar Material de Clase / Presentación"
   },
   {
     "objectID": "docencia.html#código-qr-para-clases-y-presentaciones",
     "href": "docencia.html#código-qr-para-clases-y-presentaciones",
-    "title": "Docencia & Recursos",
+    "title": "Docencia y Formación",
     "section": "Código QR para Clases y Presentaciones",
-    "text": "Código QR para Clases y Presentaciones\nPara facilitar el acceso directo de estudiantes y colegas en el aula o durante conferencias, este código QR dirige directamente a este sitio web y sus recursos:\n\n\nEscanea para acceder a esta web y a sus descargas desde el celular."
+    "text": "Código QR para Clases y Presentaciones\nPara facilitar el acceso directo de estudiantes y colegas en el aula o durante conferencias, este código QR dirige directamente a este sitio web y a sus recursos:\n\n\nEscanea con el celular para acceder a la web y a los materiales de clase."
   }
 ]

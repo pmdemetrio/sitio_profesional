@@ -1,22 +1,22 @@
 ---
-title: "Docencia & Recursos"
+title: "Docencia y Formación"
 ---
 
-Pablo M. Demetrio cuenta con una trayectoria continuada en la formación de recursos humanos de grado y posgrado, liderando cursos orientados a la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales.
+Pablo M. Demetrio cuenta con una amplia trayectoria académica dedicada tanto a la docencia universitaria como a la formación integral de jóvenes investigadores y profesionales en áreas de frontera como la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales.
 
 ---
 
-## Cursos Actuales
+## Cursos Universitarios
 
 ### Grado
 * **Geoestadística**  
   *Profesor Titular*. Licenciatura en Geoquímica, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP).
 
-### Posgrado
+### Posgrado y Doctorado
 * **Introducción al análisis de datos en las ciencias ambientales con R**  
-  Curso de doctorado acreditado, Facultad de Ciencias Naturales y Museo (FCNyM, UNLP).
+  Curso de posgrado/doctorado acreditado, Facultad de Ciencias Naturales y Museo (FCNyM, UNLP).
 * **Métodos estadísticos aplicados a las ciencias químicas y biológicas**  
-  Curso de doctorado acreditado, Facultad de Ciencias Exactas (FCE, UNLP).
+  Curso de posgrado/doctorado acreditado, Facultad de Ciencias Exactas (FCE, UNLP).
 * **Ecotoxicología**  
   Maestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP).
 * **Riesgo Ambiental**  
@@ -24,27 +24,39 @@ Pablo M. Demetrio cuenta con una trayectoria continuada en la formación de recu
 
 ---
 
+## Formación de Recursos Humanos & Mentoría
+
+La formación de nuevos profesionales e investigadores es uno de los pilares de su labor académica:
+
+* **Dirección y Codirección de Tesis Doctorales**: Formación de doctores en el marco de programas de posgrado de la UNLP y otras universidades nacionales.
+* **Dirección de Becarios de Investigación**: Becas doctorales y posdoctorales financiadas por CONICET, CIC y UNLP.
+* **Tesinas y Trabajos Finales de Grado**: Orientación de estudiantes de licenciatura en biología, geoquímica y ciencias ambientales.
+
+*(Si eres estudiante o graduado con interés en realizar una tesis de grado o postularte a becas de doctorado/posdoctorado en el CIM, puedes contactarte directamente por correo).*
+
+---
+
 ## Recursos Didácticos & Clases Invitadas {#recursos}
 
-Espacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos, seminarios y conferencias invitadas.
+Espacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos, conferencias o seminarios invitados.
 
 ::: {.resource-box}
-### 📚 Materiales de Cursos y Conferencias
-Los materiales de clases regulares, diapositivas de presentaciones invitadas y códigos de análisis en R se publican en este apartado y en repositorios específicos para cada curso.
+### 📚 Diapositivas y Materiales de Clases
+Los materiales de cátedra, las filminas de presentaciones invitadas y los scripts de apoyo en R se publican en este apartado y en repositorios específicos para cada materia.
 
-Si asististe a una clase o charla invitada reciente y necesitas el material de apoyo o las diapositivas en PDF, puedes solicitar el acceso o enlace directo al repositorio:
+Si asististe a una clase o charla invitada reciente y necesitas el material en PDF o los ejercicios prácticos:
 
-[✉ Solicitar Material de Clase / Taller](mailto:pablo.demetrio@gmail.com?subject=Solicitud%20Material%20de%20Clase){.btn .btn-outline-primary .btn-sm}
+[✉ Solicitar Material de Clase / Presentación](mailto:pablo.demetrio@gmail.com?subject=Solicitud%20Material%20de%20Clase){.btn .btn-outline-primary .btn-sm}
 :::
 
 ---
 
 ## Código QR para Clases y Presentaciones
 
-Para facilitar el acceso directo de estudiantes y colegas en el aula o durante conferencias, este código QR dirige directamente a este sitio web y sus recursos:
+Para facilitar el acceso directo de estudiantes y colegas en el aula o durante conferencias, este código QR dirige directamente a este sitio web y a sus recursos:
 
 ::: {.qr-container}
 ![](archivos/qr_sitio_demetrio.png){fig-alt="Código QR del sitio web profesional del Dr. Pablo M. Demetrio"}
 
-<span style="font-size: 0.82rem; color: gray;">Escanea para acceder a esta web y a sus descargas desde el celular.</span>
+<span style="font-size: 0.82rem; color: gray;">Escanea con el celular para acceder a la web y a los materiales de clase.</span>
 :::

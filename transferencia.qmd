@@ -1,52 +1,53 @@
 ---
-title: "Servicios Profesionales & Transferencia"
+title: "Asesoramiento Técnico & Transferencia"
 ---
 
-Pablo M. Demetrio canaliza la transferencia de conocimiento científico hacia el medio socioproductivo, el poder judicial y los organismos públicos a través de los **Servicios Tecnológicos de Alto Nivel (STAN)** del CONICET y los convenios de vinculación y transferencia de la Universidad Nacional de La Plata (UNLP).
+Pablo M. Demetrio canaliza la transferencia de conocimiento científico hacia el medio socioproductivo, el poder judicial, organismos gubernamentales y agencias técnicas mediante los **Servicios Tecnológicos de Alto Nivel (STAN)** del CONICET y los convenios de vinculación y transferencia de la Universidad Nacional de La Plata (UNLP).
 
 ---
 
-## Servicios Profesionales y Asesoramiento Técnico
+## Servicios Especializados y Consultoría Técnica
 
 ### 1. Peritajes Ambientales y Asesoramiento Judicial
-* Actuación como perito y consultor técnico de parte o perito oficial en litigios ambientales.
-* Análisis de causalidad, determinación de daño ambiental y evaluación probatoria sobre contaminación de aguas, suelos y biota.
+* Actuación como perito oficial o consultor técnico de parte en litigios y causas judiciales de índole ambiental.
+* Análisis de nexos de causalidad, evaluación probatoria de daño ambiental y diagnóstico de contaminación en matrices acuáticas, suelos y biota.
+* Elaboración de dictámenes e informes periciales fundamentados en evidencia científica y estándares normativos.
 
-### 2. Evaluación de Riesgo Ambiental y Salud Pública
-* Estudios cuantitativos y cualitativos de evaluación de riesgo ambiental (ERA) por agroquímicos y sustancias industriales.
-* Evaluaciones de riesgo asociadas a la seguridad alimentaria y calidad de fuentes de agua para consumo.
-* Auditoría y diseño de baterías de indicadores ambientales para diagnóstico territorial.
+### 2. Evaluación de Riesgo Ambiental (ERA) y Seguridad Alimentaria
+* Estudios cuantitativos y probabilísticos de riesgo ecológico por plaguicidas, metales pesados y contaminantes de preocupación emergente.
+* Evaluaciones de riesgo vinculadas a la inocuidad alimentaria, fuentes de agua para consumo y salud pública.
+* Auditoría ambiental y diseño de baterías de indicadores ecotoxicológicos para diagnóstico territorial.
 
-### 3. Bioensayos Ecotoxicológicos
-* Determinación de toxicidad aguda y crónica en organismos modelo acuáticos y terrestres.
-* Ensayos de laboratorio estandarizados para evaluación de efluentes, aguas superficiales y matrices complejas.
+### 3. Bioensayos Ecotoxicológicos de Laboratorio
+* Ensayos estandarizados de toxicidad aguda y crónica en organismos modelo acuáticos y terrestres.
+* Evaluación ecotoxicológica de efluentes industriales, vertidos urbanos y aguas superficiales para control de calidad y cumplimiento normativo.
 
 ### 4. Ciencia de Datos y Bioestadística Ambiental
-* Procesamiento y modelado estadístico avanzado de bases de datos de monitoreo ambiental.
-* Análisis espacial, geoestadística y desarrollo de scripts automatizados en lenguaje R.
-* Diseño muestral optimizado para programas de vigilancia ambiental.
+* Procesamiento avanzado, control de calidad y modelado de grandes bases de datos de monitoreo ambiental.
+* Análisis espacial, geoestadística y desarrollo de flujos automatizados de cálculo en lenguaje **R**.
+* Optimización de diseños de muestreo para redes de vigilancia ambiental.
 
 ---
 
-## Transferencia Tecnológica y Vinculación
+## Transferencia Tecnológica, Normalización y Redes
 
-* **Normalización Técnica**: Participación activa en comités técnicos para la redacción y revisión de normas IRAM en temáticas ambientales y ecotoxicológicas.
-* **Desarrollo de Software Especializado**: Implementación de algoritmos y herramientas computacionales para la derivación y cálculo de Niveles Guía de Calidad Ambiental.
-* **Capacitación a Gestores**: Dictado de cursos de perfeccionamiento para funcionarios y equipos técnicos de organismos provinciales y nacionales.
-* **Redes Institucionales**: Participación en Redes Institucionales Orientadas a la Solución de Problemas (RIOSP - CONICET) y proyectos de sustentabilidad territorial.
+* **Comités de Normalización Técnica**: Participación activa en el Instituto Argentino de Normalización y Certificación (**IRAM**) para la redacción y revisión de normas técnicas sobre calidad ambiental y ecotoxicología.
+* **Software para Niveles Guía**: Diseño e implementación de algoritmos y herramientas informáticas para la derivación automatizada de Niveles Guía de Calidad Ambiental.
+* **Capacitación a Organismos de Gestión**: Dictado de cursos y talleres de perfeccionamiento para funcionarios, técnicos y decisores de administraciones provinciales y nacionales.
+* **Redes Institucionales**: Integración de las Redes Institucionales Orientadas a la Solución de Problemas (**RIOSP - CONICET**) y proyectos de sustentabilidad territorial de la UNLP.
 
 ---
 
 ## Modalidades de Contratación y Consultas
 
-Los servicios se formalizan bajo los marcos institucionales de:
+Los servicios y asesoramientos se formalizan a través de los canales institucionales correspondientes:
 * **STAN (Servicios Tecnológicos de Alto Nivel) – CONICET**
-* **Convenios de Asistencia Técnica – UNLP**
-* Consultoría independiente y peritajes particulares.
+* **Convenios de Asistencia Técnica y Transferencia – UNLP**
+* Consultoría independiente y peritajes judiciales directos.
 
-Para solicitar asesoramiento preliminar, presupuestos formales o coordinar una reunión de trabajo:
+Para solicitar asesoramiento preliminar, acordar alcances metodológicos o solicitar presupuestos formales:
 
 ::: {.btn-cta-group}
-[✉ Solicitar Asesoramiento / Presupuesto](mailto:pablo.demetrio@gmail.com?subject=Consulta%20Servicios%20Profesionales){.btn .btn-primary}
+[✉ Solicitar Asesoramiento / Presupuesto](mailto:pablo.demetrio@gmail.com?subject=Consulta%20Asesoramiento%20Tecnico){.btn .btn-primary}
 [📄 Descargar CV de Servicios (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
 :::

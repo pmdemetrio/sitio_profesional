@@ -25,36 +25,36 @@ about:
 
 Pablo M. Demetrio es Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP). Desarrolla sus actividades en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).
 
-Su especialidad se centra en la **ecotoxicología** y la **evaluación de riesgos ambientales**, integrando métodos bioestadísticos y herramientas de ciencia de datos aplicadas a problemáticas ambientales. Su trabajo busca generar perfiles de exposición y evaluar efectos biológicos para el diseño de estrategias integradas frente al impacto de contaminantes de origen antrópico, con énfasis en plaguicidas y contaminantes de preocupación emergente.
+Su especialidad se centra en la **ecotoxicología** y la **evaluación de riesgos ambientales**, integrando métodos bioestadísticos y herramientas de ciencia de datos aplicadas a problemáticas ambientales. Su trabajo articula la generación de perfiles de exposición y evaluación de efectos biológicos frente a contaminantes de origen antrópico (con énfasis en plaguicidas y compuestos de preocupación emergente) con la transferencia técnica hacia organismos de gestión, peritajes judiciales y el sector productivo.
 
 ---
 
-## Áreas de Actividad
+## Pilares de Actividad
 
 ::: {.feature-grid}
 
 ::: {.feature-card}
-<span class="badge-subtle">Científica</span>
-### Investigación Aplicada
-Estudio del impacto ecotoxicológico en cuencas y agroecosistemas pampeanos, generación de datos de base e integración de modelos para diagnóstico ambiental.
+<span class="badge-subtle">Ciencia & Proyectos</span>
+### Investigación Científica
+Líneas de trabajo en ecotoxicología de cuencas pampeanas, proyectos de investigación acreditados y producción científica en revistas indexadas.
 
-[Ver Líneas & Publicaciones →](investigacion.qmd){.btn .btn-outline-primary .btn-sm}
+[Ver Investigación Científica →](investigacion.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 
 ::: {.feature-card}
-<span class="badge-subtle">Técnica & Judicial</span>
-### Servicios & Peritajes
-Evaluaciones de riesgo ambiental, peritajes judiciales en materia ambiental, bioensayos estandarizados y desarrollo de software para niveles guía.
+<span class="badge-subtle">Academia & Mentoría</span>
+### Docencia y Formación
+Cátedras universitarias de grado, cursos de posgrado/doctorado, dirección de tesistas y becarios, y repositorio de diapositivas y clases.
 
-[Consultar Servicios →](transferencia.qmd){.btn .btn-outline-primary .btn-sm}
+[Ver Docencia y Formación →](docencia.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 
 ::: {.feature-card}
-<span class="badge-subtle">Académica</span>
-### Docencia & Recursos
-Cátedras de grado y posgrado en geoestadística, ciencia de datos con R y ecotoxicología. Descarga de materiales y presentaciones de clases.
+<span class="badge-subtle">Servicios & Peritajes</span>
+### Asesoramiento Técnico
+Peritajes ambientales y judiciales, evaluaciones de riesgo, bioensayos, normas IRAM y consultoría técnica bajo marco STAN (CONICET) y UNLP.
 
-[Acceder a Docencia & Clases →](docencia.qmd){.btn .btn-outline-primary .btn-sm}
+[Consultar Servicios & Transferencia →](transferencia.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 
 :::
@@ -87,7 +87,7 @@ Cátedras de grado y posgrado en geoestadística, ciencia de datos con R y ecoto
 
 ## Contacto Institucional & Profesional
 
-Para consultas académicas, solicitudes de peritajes judiciales, evaluaciones de riesgo o vinculación tecnológica:
+Para consultas de investigación, dirección de tesis/becas, peritajes judiciales o servicios técnicos:
 
 ::: {.btn-cta-group}
 [✉ Enviar Consulta por Correo](mailto:pablo.demetrio@gmail.com){.btn .btn-primary}
