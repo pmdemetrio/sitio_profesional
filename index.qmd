@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: "Descargar CV (PDF)"
-      href: archivos/CV_Pablo_Demetrio.pdf
+      href: "https://pmdemetrio.github.io/sitio_profesional/archivos/CV_Pablo_Demetrio.pdf"
     - icon: envelope
       text: Email
       href: mailto:pablo.demetrio@gmail.com
