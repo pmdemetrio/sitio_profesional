@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo M. Demetrio",
+    "section": "",
+    "text": "Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP).\nSu área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utiliza métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes."
+  },
+  {
+    "objectID": "index.html#sobre-mí",
+    "href": "index.html#sobre-mí",
+    "title": "Pablo M. Demetrio",
+    "section": "",
+    "text": "Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP).\nSu área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utiliza métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes."
+  },
+  {
+    "objectID": "index.html#cargos-actuales",
+    "href": "index.html#cargos-actuales",
+    "title": "Pablo M. Demetrio",
+    "section": "Cargos actuales",
+    "text": "Cargos actuales\nInvestigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas con lugar de trabajo en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).\nProfesor Titular de la Universidad Nacional de La Plata."
+  },
+  {
+    "objectID": "index.html#formación-académica",
+    "href": "index.html#formación-académica",
+    "title": "Pablo M. Demetrio",
+    "section": "Formación Académica",
+    "text": "Formación Académica\nDoctor de la Facultad de Ciencias Exactas (2008 – 2012)\nFacultad de Ciencias Exactas, Universidad Nacional de La Plata (FCE, UNLP)\nEspecialista en Gestión Ambiental (2006 – 2008)\nInstituto Tecnológico de Buenos Aires (ITBA)\nLicenciado en Biología (Orientación Ecología) (1999 – 2006)\nFacultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP)"
+  },
+  {
     "objectID": "transferencia.html",
     "href": "transferencia.html",
     "title": "Transferencia y Asesoramiento Técnico",
@@ -56,34 +84,6 @@
     "text": "Publicaciones\nPara consultar el listado completo y actualizado de publicaciones científicas, citas e índices bibliométricos:\n\n👉 Ver publicaciones en Google Scholar 🌐 Registro ORCID 🏛 Perfil CONICET 📄 Descargar CV (PDF)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pablo M. Demetrio",
-    "section": "",
-    "text": "Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP).\nSu área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utiliza métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes."
-  },
-  {
-    "objectID": "index.html#sobre-mí",
-    "href": "index.html#sobre-mí",
-    "title": "Pablo M. Demetrio",
-    "section": "",
-    "text": "Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP).\nSu área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utiliza métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes."
-  },
-  {
-    "objectID": "index.html#cargos-actuales",
-    "href": "index.html#cargos-actuales",
-    "title": "Pablo M. Demetrio",
-    "section": "Cargos actuales",
-    "text": "Cargos actuales\nInvestigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas con lugar de trabajo en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).\nProfesor Titular de la Universidad Nacional de La Plata."
-  },
-  {
-    "objectID": "index.html#formación-académica",
-    "href": "index.html#formación-académica",
-    "title": "Pablo M. Demetrio",
-    "section": "Formación Académica",
-    "text": "Formación Académica\nDoctor de la Facultad de Ciencias Exactas (2008 – 2012)\nFacultad de Ciencias Exactas, Universidad Nacional de La Plata (FCE, UNLP)\nEspecialista en Gestión Ambiental (2006 – 2008)\nInstituto Tecnológico de Buenos Aires (ITBA)\nLicenciado en Biología (Orientación Ecología) (1999 – 2006)\nFacultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP)"
-  },
-  {
     "objectID": "docencia.html",
     "href": "docencia.html",
     "title": "Docencia",
@@ -98,10 +98,10 @@
     "text": "Cursos Actuales\n\nGrado\n\nGeoestadística\nLicenciatura en Geoquímica, Facultad de Ciencias Naturales y Museo, UNLP.\n\n\n\nPosgrado\n\nMétodos estadísticos aplicados a las ciencias químicas y biológicas\nAcreditado para doctorado, Facultad de Ciencias Exactas, UNLP.\nIntroducción al análisis de datos en las ciencias ambientales con R\nAcreditado para doctorado, Facultad de Ciencias Naturales y Museo, UNLP.\nEcotoxicología\nMaestría en Ingeniería Ambiental, UTN - Facultad Regional La Plata.\nRiesgo Ambiental\nMaestría en Ingeniería Ambiental, UTN - Facultad Regional La Plata."
   },
   {
-    "objectID": "docencia.html#recursos",
-    "href": "docencia.html#recursos",
+    "objectID": "docencia.html#material-didáctico",
+    "href": "docencia.html#material-didáctico",
     "title": "Docencia",
-    "section": "Material Didáctico & Clases Invitadas",
-    "text": "Material Didáctico & Clases Invitadas\nEspacio para la distribución de presentaciones, diapositivas y materiales de clases para estudiantes y asistentes a cursos o conferencias.\n\nSi asististe a una clase o charla invitada reciente y necesitas el material en PDF o las presentaciones:\n✉ Solicitar Material de Clase\n\n\nCódigo QR para Clases y Presentaciones\n\n\nEscanea con el celular para acceder al sitio y a los recursos docentes."
+    "section": "Material Didáctico",
+    "text": "Material Didáctico\nEspacio para la distribución de presentaciones, diapositivas y materiales de clases para estudiantes y asistentes a cursos o conferencias.\n\nSi asististe a una clase o charla reciente y necesitas el material en PDF o las presentaciones:\n✉ Solicitar Material de Clase"
   }
 ]
