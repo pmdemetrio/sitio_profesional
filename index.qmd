@@ -21,8 +21,6 @@ about:
       href: https://www.fcnym.unlp.edu.ar/grado_/catedras/geoestadistica/
 ---
 
-## Sobre mí
-
 Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP).
 
 Su área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utiliza métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. 
