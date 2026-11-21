@@ -2,56 +2,27 @@
 title: "Investigación"
 ---
 
-La actividad científica de Pablo M. Demetrio se enfoca en la evaluación integral del impacto de contaminantes en ecosistemas acuáticos y terrestres de la región pampeana, con especial énfasis en aquellos derivados de la actividad agroproductiva y urbana (principalmente plaguicidas y contaminantes de preocupación emergente).
+Su investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándose en aquellos asociados con la actividad antrópica; principalmente plaguicidas y contaminantes de preocupación emergente.
 
-El propósito central radica en el desarrollo y aplicación de herramientas bioanalíticas y computacionales para el diagnóstico y pronóstico ambiental, aportando evidencia científica sólida para la gestión y la toma de decisiones.
-
----
-
-## Líneas de Investigación
-
-### 1. Ecotoxicología y Evaluación de Riesgos Ambientales
-* Generación de información de base química y ecotoxicológica en cuencas de llanura.
-* Determinación de perfiles de exposición y evaluación de efectos biológicos mediante bioensayos con organismos no blanco (peces, anfibios e invertebrados).
-* Derivación de Niveles Guía de Calidad de Agua para la protección de la biota acuática y estimación de riesgos probabilísticos.
-
-### 2. Estadística Aplicada y Ciencia de Datos Ambientales
-* Bioestadística ambiental, análisis multivariado y geoestadística aplicada al monitoreo de cuencas.
-* Implementación de flujos de análisis reproducibles en entorno estadístico **R**.
-* Integración de modelos predictivos de transporte, destino ambiental y mezcla de sustancias químicas.
-
-### 3. Gestión y Diagnóstico Basado en Evidencia
-* Desarrollo de herramientas analíticas para autoridades de aplicación a nivel municipal, provincial y nacional.
-* Aporte técnico-científico para la formulación y actualización de estándares normativos de calidad ambiental.
+Su interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental. 
 
 ---
 
-## Proyectos Acreditados y Financiamiento
+## Líneas e Intereses de Investigación
 
-Las investigaciones se financian mediante proyectos con financiamiento competitivo, incluyendo:
-* **Proyectos de Investigación Científica y Tecnológica (PICT)** – Agencia I+D+i.
-* **Proyectos de Investigación Plurianuales (PIP)** – CONICET.
-* **Programas de Incentivos a la Investigación** – UNLP.
-* Convenios y fondos de cooperación institucional orientados a problemáticas ambientales específicas.
+* **Ecotoxicología | Evaluación de Riesgos**: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.
+* **Estadística Aplicada | Ciencia de Datos**: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.
+* **Gestión Ambiental**: desarrollo de herramientas para la toma de decisiones basadas en evidencia. 
 
 ---
 
-## Sociedades Científicas y Redes
+## Publicaciones 
 
-* Miembro activo de la **Society of Environmental Toxicology and Chemistry (SETAC)**.
-* Participación regular como expositor, panelista y evaluador en congresos nacionales e internacionales de ecotoxicología, química ambiental y estadística.
-
----
-
-## Producción Científica y Publicaciones
-
-La producción incluye publicaciones en revistas científicas indexadas de alto impacto internacional, capítulos de libros y actas de congresos.
-
-Para consultar el listado completo y actualizado de publicaciones, citas e índices bibliométricos:
+Para consultar el listado completo y actualizado de publicaciones científicas, citas e índices bibliométricos:
 
 ::: {.btn-cta-group}
-[👉 Perfil en Google Scholar](https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es){.btn .btn-primary}
-[🌐 Registro ORCID (0000-0002-2512-9500)](https://orcid.org/0000-0002-2512-9500){.btn .btn-outline-primary}
-[🏛 Ficha de Investigador CONICET](https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio){.btn .btn-outline-secondary}
-[📄 Descargar CV Completo (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
+[👉 Ver publicaciones en Google Scholar](https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es){.btn .btn-primary}
+[🌐 Registro ORCID](https://orcid.org/0000-0002-2512-9500){.btn .btn-outline-primary}
+[🏛 Perfil CONICET](https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio){.btn .btn-outline-secondary}
+[📄 Descargar CV (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
 :::

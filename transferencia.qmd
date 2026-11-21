@@ -2,52 +2,41 @@
 title: "Transferencia y Asesoramiento Técnico"
 ---
 
-Pablo M. Demetrio canaliza la transferencia de conocimiento científico hacia el medio socioproductivo, el poder judicial, organismos gubernamentales y agencias técnicas mediante los **Servicios Tecnológicos de Alto Nivel (STAN)** del CONICET y los convenios de vinculación y transferencia de la Universidad Nacional de La Plata (UNLP).
+Esta sección está dedicada a las actividades de transferencia tecnológica, vinculación y servicios hacia el medio socioproductivo, el poder judicial y organismos de gestión.
 
 ---
 
-## Servicios Especializados y Consultoría Técnica
+## Transferencia Tecnológica
 
-### 1. Peritajes Ambientales y Asesoramiento Judicial
-* Actuación como perito oficial o consultor técnico de parte en litigios y causas judiciales de índole ambiental.
-* Análisis de nexos de causalidad, evaluación probatoria de daño ambiental y diagnóstico de contaminación en matrices acuáticas, suelos y biota.
-* Elaboración de dictámenes e informes periciales fundamentados en evidencia científica y estándares normativos.
-
-### 2. Evaluación de Riesgo Ambiental (ERA) y Seguridad Alimentaria
-* Estudios cuantitativos y probabilísticos de riesgo ecológico por plaguicidas, metales pesados y contaminantes de preocupación emergente.
-* Evaluaciones de riesgo vinculadas a la inocuidad alimentaria, fuentes de agua para consumo y salud pública.
-* Auditoría ambiental y diseño de baterías de indicadores ecotoxicológicos para diagnóstico territorial.
-
-### 3. Bioensayos Ecotoxicológicos de Laboratorio
-* Ensayos estandarizados de toxicidad aguda y crónica en organismos modelo acuáticos y terrestres.
-* Evaluación ecotoxicológica de efluentes industriales, vertidos urbanos y aguas superficiales para control de calidad y cumplimiento normativo.
-
-### 4. Ciencia de Datos y Bioestadística Ambiental
-* Procesamiento avanzado, control de calidad y modelado de grandes bases de datos de monitoreo ambiental.
-* Análisis espacial, geoestadística y desarrollo de flujos automatizados de cálculo en lenguaje **R**.
-* Optimización de diseños de muestreo para redes de vigilancia ambiental.
+* Participación en la generación de normas IRAM.
+* Desarrollo e implementación de software para el cálculo de Niveles Guía.
+* Capacitación a gestores a nivel provincial y nacional.
 
 ---
 
-## Transferencia Tecnológica, Normalización y Redes
+## Vinculación
 
-* **Comités de Normalización Técnica**: Participación activa en el Instituto Argentino de Normalización y Certificación (**IRAM**) para la redacción y revisión de normas técnicas sobre calidad ambiental y ecotoxicología.
-* **Software para Niveles Guía**: Diseño e implementación de algoritmos y herramientas informáticas para la derivación automatizada de Niveles Guía de Calidad Ambiental.
-* **Capacitación a Organismos de Gestión**: Dictado de cursos y talleres de perfeccionamiento para funcionarios, técnicos y decisores de administraciones provinciales y nacionales.
-* **Redes Institucionales**: Integración de las Redes Institucionales Orientadas a la Solución de Problemas (**RIOSP - CONICET**) y proyectos de sustentabilidad territorial de la UNLP.
+* Participación en Redes Institucionales Orientadas a la Solución de Problemas (RIOSP-CONICET).
+* Participación en proyectos de extensión de la UNLP orientados a la sustentabilidad territorial.
 
 ---
 
-## Modalidades de Contratación y Consultas
+## Servicios
 
-Los servicios y asesoramientos se formalizan a través de los canales institucionales correspondientes:
-* **STAN (Servicios Tecnológicos de Alto Nivel) – CONICET**
-* **Convenios de Asistencia Técnica y Transferencia – UNLP**
-* Consultoría independiente y peritajes judiciales directos.
+* Responsable de evaluaciones de riesgo ambiental.
+* Evaluaciones de riesgo vinculadas a seguridad alimentaria y salud pública.
+* Peritajes y asesoramiento judicial en temática ambiental.
+* Auditoría en indicadores ambientales.
+* Asesoramiento en análisis de datos aplicados a ciencias ambientales.
+* Bioensayos de toxicidad.
 
-Para solicitar asesoramiento preliminar, acordar alcances metodológicos o solicitar presupuestos formales:
+---
+
+## Consultas y Contacto
+
+Para coordinar peritajes, evaluaciones de riesgo o vinculación tecnológica bajo el marco de STAN (CONICET) o convenios UNLP:
 
 ::: {.btn-cta-group}
-[✉ Solicitar Asesoramiento / Presupuesto](mailto:pablo.demetrio@gmail.com?subject=Consulta%20Asesoramiento%20Tecnico){.btn .btn-primary}
-[📄 Descargar CV de Servicios (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
+[✉ Enviar Consulta por Correo](mailto:pablo.demetrio@gmail.com?subject=Consulta%20Transferencia%20y%20Asesoramiento){.btn .btn-primary}
+[📄 Descargar CV (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
 :::

@@ -2,49 +2,44 @@
 title: "Docencia"
 ---
 
-Pablo M. Demetrio cuenta con una trayectoria continuada en la docencia universitaria de grado y posgrado, dictando materias orientadas a la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales en diversas facultades y casas de estudio.
+A lo largo de su carrera académica, ha participado en el dictado de cursos de grado y posgrado, enfocándose en la formación de recursos humanos en las áreas de ecotoxicología, evaluación de riesgos y estadística aplicada.
 
 ---
 
-## Cursos Universitarios
+## Cursos Actuales
 
 ### Grado
-* **Geoestadística**  
-  *Profesor Titular*. Licenciatura en Geoquímica, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP).
 
-### Posgrado y Doctorado
-* **Introducción al análisis de datos en las ciencias ambientales con R**  
-  Curso de posgrado/doctorado acreditado, Facultad de Ciencias Naturales y Museo (FCNyM, UNLP).
-* **Métodos estadísticos aplicados a las ciencias químicas y biológicas**  
-  Curso de posgrado/doctorado acreditado, Facultad de Ciencias Exactas (FCE, UNLP).
-* **Ecotoxicología**  
-  Maestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP).
-* **Riesgo Ambiental**  
-  Maestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP).
+* ***Geoestadística***  
+  Licenciatura en Geoquímica, Facultad de Ciencias Naturales y Museo, UNLP.
+
+### Posgrado
+
+* ***Métodos estadísticos aplicados a las ciencias químicas y biológicas***  
+  Acreditado para doctorado, Facultad de Ciencias Exactas, UNLP.
+* ***Introducción al análisis de datos en las ciencias ambientales con R***  
+  Acreditado para doctorado, Facultad de Ciencias Naturales y Museo, UNLP.
+* ***Ecotoxicología***  
+  Maestría en Ingeniería Ambiental, UTN - Facultad Regional La Plata.
+* ***Riesgo Ambiental***  
+  Maestría en Ingeniería Ambiental, UTN - Facultad Regional La Plata.
 
 ---
 
-## Recursos Didácticos & Clases Invitadas {#recursos}
+## Material Didáctico & Clases Invitadas {#recursos}
 
-Espacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos regulares, conferencias y seminarios invitados.
+Espacio para la distribución de presentaciones, diapositivas y materiales de clases para estudiantes y asistentes a cursos o conferencias.
 
 ::: {.resource-box}
-### 📚 Diapositivas y Materiales de Clases
-Los materiales de cátedra, las filminas de presentaciones invitadas y los scripts de apoyo en R se publican en este apartado y en repositorios específicos para cada materia.
+Si asististe a una clase o charla invitada reciente y necesitas el material en PDF o las presentaciones:
 
-Si asististe a una clase o charla invitada reciente y necesitas el material en PDF o los ejercicios prácticos:
-
-[✉ Solicitar Material de Clase / Presentación](mailto:pablo.demetrio@gmail.com?subject=Solicitud%20Material%20de%20Clase){.btn .btn-outline-primary .btn-sm}
+[✉ Solicitar Material de Clase](mailto:pablo.demetrio@gmail.com?subject=Solicitud%20Material%20de%20Clase){.btn .btn-outline-primary .btn-sm}
 :::
 
----
-
-## Código QR para Clases y Presentaciones
-
-Para facilitar el acceso directo de estudiantes y colegas en el aula o durante conferencias, este código QR dirige directamente a este sitio web y a sus recursos:
+### Código QR para Clases y Presentaciones
 
 ::: {.qr-container}
 ![](archivos/qr_sitio_demetrio.png){fig-alt="Código QR del sitio web profesional del Dr. Pablo M. Demetrio"}
 
-<span style="font-size: 0.82rem; color: gray;">Escanea con el celular para acceder a la web y a los materiales de clase.</span>
+<span style="font-size: 0.82rem; color: gray;">Escanea con el celular para acceder al sitio y a los recursos docentes.</span>
 :::

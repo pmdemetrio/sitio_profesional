@@ -1,5 +1,5 @@
 ---
-title: "Dr. Pablo M. Demetrio"
+title: "Pablo M. Demetrio"
 about:
   template: trestles
   image: "foto_Demetrio_B&N.jpg"
@@ -21,74 +21,29 @@ about:
       href: https://www.fcnym.unlp.edu.ar/grado_/catedras/geoestadistica/
 ---
 
-## Perfil Profesional
+## Sobre mí
 
-Pablo M. Demetrio es Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP). Desarrolla sus actividades en el Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP).
+Doctor en Ciencias Exactas, Investigador Independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y Profesor Titular de la Universidad Nacional de La Plata (UNLP).
 
-Su especialidad se centra en la **ecotoxicología** y la **evaluación de riesgos ambientales**, integrando métodos bioestadísticos y herramientas de ciencia de datos aplicadas a problemáticas ambientales. Su trabajo articula la generación de perfiles de exposición y evaluación de efectos biológicos frente a contaminantes de origen antrópico (con énfasis en plaguicidas y compuestos de preocupación emergente) con la transferencia técnica hacia organismos de gestión, peritajes judiciales y el sector productivo.
-
----
-
-## Ejes de Actividad
-
-```{=html}
-<div class="feature-grid">
-
-<div class="feature-card">
-  <span class="badge-subtle">Ciencia & Proyectos</span>
-  <div class="card-title">Investigación</div>
-  <p class="card-text">Líneas de trabajo en ecotoxicología de cuencas pampeanas, proyectos acreditados y producción científica en revistas indexadas.</p>
-  <a href="investigacion.html" class="btn btn-outline-primary card-btn">Ver Investigación →</a>
-</div>
-
-<div class="feature-card">
-  <span class="badge-subtle">Cátedras & Recursos</span>
-  <div class="card-title">Docencia</div>
-  <p class="card-text">Cursos universitarios de grado y posgrado, programas analíticos y repositorio de diapositivas y clases (vía QR).</p>
-  <a href="docencia.html" class="btn btn-outline-primary card-btn">Ver Docencia →</a>
-</div>
-
-<div class="feature-card">
-  <span class="badge-subtle">Servicios & Peritajes</span>
-  <div class="card-title">Transferencia</div>
-  <p class="card-text">Peritajes ambientales y judiciales, evaluaciones de riesgo, bioensayos, normas IRAM y servicios bajo marco STAN (CONICET) y UNLP.</p>
-  <a href="transferencia.html" class="btn btn-outline-primary card-btn">Ver Transferencia →</a>
-</div>
-
-</div>
-```
+Su área de trabajo se enmarca en la ecotoxicología y tiene como eje la evaluación de riesgos. Utiliza métodos estadísticos aplicados a las ciencias ambientales, para la generación de perfiles de exposición y de efectos biológicos, en la búsqueda de estrategias integradas de evaluación del impacto de contaminantes. 
 
 ---
 
-## Cargos Actuales
+## Cargos actuales
 
-* **Investigador Independiente**  
-  *Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)*  
-  Lugar de trabajo: *Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP)*
+**Investigador Independiente** del *Consejo Nacional de Investigaciones Científicas y Técnicas* con lugar de trabajo en el *Centro de Investigaciones del Medio Ambiente* (CIM, CONICET-UNLP).
 
-* **Profesor Titular**  
-  *Cátedra de Geoestadística, Facultad de Ciencias Naturales y Museo (FCNyM, UNLP)*
+**Profesor Titular** de la *Universidad Nacional de La Plata*.
 
 ---
 
 ## Formación Académica
 
-* **Doctor de la Facultad de Ciencias Exactas** (2008 – 2012)  
-  *Facultad de Ciencias Exactas, Universidad Nacional de La Plata (FCE, UNLP)*
+**Doctor de la Facultad de Ciencias Exactas** (2008 – 2012)  
+*Facultad de Ciencias Exactas, Universidad Nacional de La Plata* (FCE, UNLP)
 
-* **Especialista en Gestión Ambiental** (2006 – 2008)  
-  *Instituto Tecnológico de Buenos Aires (ITBA)*
+**Especialista en Gestión Ambiental** (2006 – 2008)  
+*Instituto Tecnológico de Buenos Aires* (ITBA)
 
-* **Licenciado en Biología (Orientación Ecología)** (1999 – 2006)  
-  *Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP)*
-
----
-
-## Contacto Institucional & Profesional
-
-Para consultas de investigación, peritajes judiciales, evaluaciones de riesgo o servicios técnicos:
-
-::: {.btn-cta-group}
-[✉ Enviar Consulta por Correo](mailto:pablo.demetrio@gmail.com){.btn .btn-primary}
-[📄 Descargar CV Completo (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
-:::
+**Licenciado en Biología (Orientación Ecología)** (1999 – 2006)  
+*Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata* (FCNyM, UNLP)
