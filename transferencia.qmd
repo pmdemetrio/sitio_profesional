@@ -1,27 +1,52 @@
 ---
-title: "Transferencia"
+title: "Servicios Profesionales & Transferencia"
 ---
 
-Esta sección está dedicada a las actividades de transferencia tecnológica, vinculación y servicios hacia el medio socioproductivo.
+Pablo M. Demetrio canaliza la transferencia de conocimiento científico hacia el medio socioproductivo, el poder judicial y los organismos públicos a través de los **Servicios Tecnológicos de Alto Nivel (STAN)** del CONICET y los convenios de vinculación y transferencia de la Universidad Nacional de La Plata (UNLP).
 
+---
 
-## Transferencia tecnológica
+## Servicios Profesionales y Asesoramiento Técnico
 
-*  Participacion en la generación de normas IRAM
-*  Desarrollo e implementación de software para el cálculo de Niveles Guía
-*  Capacitación a gestores a nivel provincial y nacional  
+### 1. Peritajes Ambientales y Asesoramiento Judicial
+* Actuación como perito y consultor técnico de parte o perito oficial en litigios ambientales.
+* Análisis de causalidad, determinación de daño ambiental y evaluación probatoria sobre contaminación de aguas, suelos y biota.
 
-## Vinculación
+### 2. Evaluación de Riesgo Ambiental y Salud Pública
+* Estudios cuantitativos y cualitativos de evaluación de riesgo ambiental (ERA) por agroquímicos y sustancias industriales.
+* Evaluaciones de riesgo asociadas a la seguridad alimentaria y calidad de fuentes de agua para consumo.
+* Auditoría y diseño de baterías de indicadores ambientales para diagnóstico territorial.
 
-*  Participación en Redes Institucionales Orientadas a la Solución de Problemas (RIOSP-CONICET) 
-*  Participación en proyectos de extensión de la UNLP orientados a las sutentabilidad territorial
+### 3. Bioensayos Ecotoxicológicos
+* Determinación de toxicidad aguda y crónica en organismos modelo acuáticos y terrestres.
+* Ensayos de laboratorio estandarizados para evaluación de efluentes, aguas superficiales y matrices complejas.
 
-## Servicios 
+### 4. Ciencia de Datos y Bioestadística Ambiental
+* Procesamiento y modelado estadístico avanzado de bases de datos de monitoreo ambiental.
+* Análisis espacial, geoestadística y desarrollo de scripts automatizados en lenguaje R.
+* Diseño muestral optimizado para programas de vigilancia ambiental.
 
-*  Responsable de evaluaciones de riesgo ambiental
-*  Evaluaciones de riesgo vinculadas a seguridad alimentaria y salud pública
-*  Peritajes y asesoramiento judicial en tematica ambiental
-*  Auditoría en indicadores ambientales
-*  Asesoramiento en análisis de datos aplicados a ciencias ambientales.
-*  Bioensayos de toxicidad 
- 
+---
+
+## Transferencia Tecnológica y Vinculación
+
+* **Normalización Técnica**: Participación activa en comités técnicos para la redacción y revisión de normas IRAM en temáticas ambientales y ecotoxicológicas.
+* **Desarrollo de Software Especializado**: Implementación de algoritmos y herramientas computacionales para la derivación y cálculo de Niveles Guía de Calidad Ambiental.
+* **Capacitación a Gestores**: Dictado de cursos de perfeccionamiento para funcionarios y equipos técnicos de organismos provinciales y nacionales.
+* **Redes Institucionales**: Participación en Redes Institucionales Orientadas a la Solución de Problemas (RIOSP - CONICET) y proyectos de sustentabilidad territorial.
+
+---
+
+## Modalidades de Contratación y Consultas
+
+Los servicios se formalizan bajo los marcos institucionales de:
+* **STAN (Servicios Tecnológicos de Alto Nivel) – CONICET**
+* **Convenios de Asistencia Técnica – UNLP**
+* Consultoría independiente y peritajes particulares.
+
+Para solicitar asesoramiento preliminar, presupuestos formales o coordinar una reunión de trabajo:
+
+::: {.btn-cta-group}
+[✉ Solicitar Asesoramiento / Presupuesto](mailto:pablo.demetrio@gmail.com?subject=Consulta%20Servicios%20Profesionales){.btn .btn-primary}
+[📄 Descargar CV de Servicios (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
+:::

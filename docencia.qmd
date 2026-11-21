@@ -1,30 +1,50 @@
 ---
-title: "Docencia"
+title: "Docencia & Recursos"
 ---
 
-A lo largo de mi carrera académica, he participado en el dictado de cursos de grado y posgrado, enfocándome en la formación de recursos humanos en las áreas de ecotoxicología, evaluación de riesgos y estadística aplicada.
+Pablo M. Demetrio cuenta con una trayectoria continuada en la formación de recursos humanos de grado y posgrado, liderando cursos orientados a la geoestadística, la bioestadística con R, la ecotoxicología y la evaluación de riesgos ambientales.
+
+---
 
 ## Cursos Actuales
 
 ### Grado
+* **Geoestadística**  
+  *Profesor Titular*. Licenciatura en Geoquímica, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata (FCNyM, UNLP).
 
-*   ***Geoestadística*** 
-Licenciatura en Geoquímica, FCNyM, UNLP 
+### Posgrado
+* **Introducción al análisis de datos en las ciencias ambientales con R**  
+  Curso de doctorado acreditado, Facultad de Ciencias Naturales y Museo (FCNyM, UNLP).
+* **Métodos estadísticos aplicados a las ciencias químicas y biológicas**  
+  Curso de doctorado acreditado, Facultad de Ciencias Exactas (FCE, UNLP).
+* **Ecotoxicología**  
+  Maestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP).
+* **Riesgo Ambiental**  
+  Maestría en Ingeniería Ambiental, Universidad Tecnológica Nacional, Facultad Regional La Plata (UTN - FRLP).
 
-### Postgrado
+---
 
-*   ***Métodos estadísticos aplicados a las ciencias químicas y biológicas*** 
-    acreditado para doctorado Facultad de Ciencias Exactas, UNLP
-*   ***Introducción al análisis de datos en las ciencias ambientales con R*** 
-    acreditado para doctorado Facultad de Ciencias Naturales y Museo, UNLP
-*   ***Ecotoxicología*** 
-    Maestría en Ingeniería Ambiental, UTN, FRLP
-*   ***Riesgo Ambiental*** 
-    Maestría en Ingeniería Ambiental, UTN, FRLP
+## Recursos Didácticos & Clases Invitadas {#recursos}
 
-## Material Didáctico
+Espacio destinado a la distribución de diapositivas, guías y materiales complementarios para estudiantes y asistentes a cursos, seminarios y conferencias invitadas.
 
-*   [Repositorio de Diapositivas](#)
-*   [Guías de Trabajos Prácticos](#)
-*   [Código y Ejercicios Prácticos (R/Python)](#)
+::: {.resource-box}
+### 📚 Materiales de Cursos y Conferencias
+Los materiales de clases regulares, diapositivas de presentaciones invitadas y códigos de análisis en R se publican en este apartado y en repositorios específicos para cada curso.
 
+Si asististe a una clase o charla invitada reciente y necesitas el material de apoyo o las diapositivas en PDF, puedes solicitar el acceso o enlace directo al repositorio:
+
+[✉ Solicitar Material de Clase / Taller](mailto:pablo.demetrio@gmail.com?subject=Solicitud%20Material%20de%20Clase){.btn .btn-outline-primary .btn-sm}
+:::
+
+---
+
+## Código QR para Clases y Presentaciones
+
+Para facilitar el acceso directo de estudiantes y colegas en el aula o durante conferencias, este código QR dirige directamente a este sitio web y sus recursos:
+
+::: {.qr-container}
+![](archivos/qr_sitio_demetrio.png){fig-alt="Código QR del sitio web profesional del Dr. Pablo M. Demetrio"}
+
+<span style="font-size: 0.82rem; color: gray;">Escanea para acceder a esta web y a sus descargas desde el celular.</span>
+:::

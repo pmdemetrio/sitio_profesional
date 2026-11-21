@@ -1,13 +1,16 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "archivos/*"
+    - "materiales/*"
 
 lang: es
 
 website:
-  title: "PMD"
-  description: "Investigador Científico y Docente"
-  favicon: "foto_Demetrio_B&N.jpg"
+  title: "Pablo M. Demetrio"
+  description: "Investigador Científico (CONICET) y Profesor Titular (UNLP)"
+  favicon: "favicon.svg"
   navbar:
     background: light
     left:
@@ -16,10 +19,9 @@ website:
       - href: investigacion.qmd
         text: Investigación
       - href: docencia.qmd
-        text: Docencia
+        text: Docencia & Recursos
       - href: transferencia.qmd
-        text: Transferencia
-
+        text: Servicios & Transferencia
 
     right:
       - icon: envelope
@@ -34,6 +36,10 @@ website:
       - text: "<img src='unlp_logo.svg' style='height: 1.6em; vertical-align: middle; margin-right: 4px;' />"
         href: https://www.fcnym.unlp.edu.ar/grado_/catedras/geoestadistica/
         aria-label: UNLP
+
+  page-footer:
+    left: "© 2026 Dr. Pablo M. Demetrio · Investigador Independiente CONICET · Prof. Titular UNLP"
+    right: "Centro de Investigaciones del Medio Ambiente (CIM, CONICET-UNLP)"
 
 format:
   html:

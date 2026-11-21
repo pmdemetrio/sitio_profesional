@@ -1,19 +1,40 @@
 ---
-title: "Investigación"
+title: "Investigación Científica"
 ---
 
-Mi investigación se centra en la evaluación del impacto de contaminantes en ambientes de la región pampeana, focalizándome en aquellos asociados con la actividad antrópica; principalmente plaguicidas y contaminantes de preocupacion emergente.
+La actividad de investigación de Pablo M. Demetrio se centra en la evaluación del impacto de contaminantes en ecosistemas acuáticos y terrestres de la región pampeana, con especial énfasis en aquellos derivados de la actividad agroproductiva y urbana (principalmente plaguicidas y contaminantes de preocupación emergente).
 
-Mi interés es el desarrollo y aplicación de herramientas para el diagnóstico y pronóstico de la contaminación que permita la toma de decisiones en el marco de la gestión ambiental. 
+El objetivo central de sus proyectos radica en el desarrollo y aplicación de herramientas metodológicas para el diagnóstico y pronóstico de la contaminación, orientadas a fundamentar la toma de decisiones en el marco de la gestión y la normativa ambiental.
 
-## Líneas e Intereses de Investigación
+---
 
-*   **Ecotoxicología | Evaluación de Riesgos**: generación de información de base química-ecotoxicológica de contaminantes en ambientes de la región pampeana.
-*   **Estadística Aplicada | Ciencia de Datos**: integración de métodos estadísticos-informáticos para el diagnóstico y pronóstico de la contaminación asociada con la actividad antrópica.
-*   **Gestión Ambiental**: Desarrollo de herramientas para la toma de decisiones basadas en evidencia. 
+## Líneas de Investigación
 
-## Publicaciones 
+### 1. Ecotoxicología y Evaluación de Riesgos Ambientales
+* Generación de información de base química y ecotoxicológica sobre contaminantes en cuencas pampeanas.
+* Determinación de perfiles de exposición y caracterización de efectos biológicos mediante bioensayos de toxicidad aguda y crónica.
+* Derivación de Niveles Guía de Calidad de Agua para la protección de la biota acuática.
 
-Para ver una lista completa y actualizada de mis publicaciones científicas, citas e índices bibliométricos, puedes visitar mi perfil oficial: 
+### 2. Estadística Aplicada y Ciencia de Datos Ambientales
+* Modelado cuantitativo, análisis multivariado y bioestadística aplicada a monitoreos ambientales.
+* Implementación de flujos reproducibles de análisis de datos y paquetes en entorno estadístico **R**.
+* Integración de modelos predictivos de transporte, destino y riesgo ambiental de sustancias químicas.
 
-[👉 Ver mis publicaciones en Google Scholar](https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es){.btn .btn-primary .mt-3}
+### 3. Herramientas para la Gestión Ambiental
+* Desarrollo de metodologías basadas en evidencia científica para autoridades de aplicación a nivel municipal, provincial y nacional.
+* Participación en comités técnicos para el establecimiento y revisión de estándares de calidad ambiental.
+
+---
+
+## Publicaciones Científicas y Producción
+
+La producción científica incluye artículos en revistas internacionales indexadas con referato estricto, capítulos de libros y presentaciones en congresos de la especialidad.
+
+Para consultar el listado completo, actualizado en tiempo real con métricas bibliométricas y citas:
+
+::: {.btn-cta-group}
+[👉 Perfil en Google Scholar](https://scholar.google.com.ar/citations?user=XZz03X4AAAAJ&hl=es){.btn .btn-primary}
+[🌐 Registro ORCID (0000-0002-2512-9500)](https://orcid.org/0000-0002-2512-9500){.btn .btn-outline-primary}
+[🏛 Ficha de Investigador CONICET](https://bicyt.conicet.gov.ar/fichas/p/pablo-martin-demetrio){.btn .btn-outline-secondary}
+[📄 Descargar CV Completo (PDF)](archivos/CV_Pablo_Demetrio.pdf){.btn .btn-outline-secondary}
+:::
