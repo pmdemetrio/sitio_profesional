@@ -54,7 +54,7 @@ Cátedras universitarias de grado, cursos de posgrado/doctorado, dirección de t
 ### Asesoramiento Técnico
 Peritajes ambientales y judiciales, evaluaciones de riesgo, bioensayos, normas IRAM y consultoría técnica bajo marco STAN (CONICET) y UNLP.
 
-[Consultar Servicios & Transferencia →](transferencia.qmd){.btn .btn-outline-primary .btn-sm}
+[Ver Asesoramiento Técnico →](transferencia.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 
 :::
