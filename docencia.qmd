@@ -26,20 +26,12 @@ A lo largo de su carrera académica, ha participado en el dictado de cursos de g
 
 ---
 
-## Material Didáctico & Clases Invitadas {#recursos}
+## Material Didáctico
 
 Espacio para la distribución de presentaciones, diapositivas y materiales de clases para estudiantes y asistentes a cursos o conferencias.
 
 ::: {.resource-box}
-Si asististe a una clase o charla invitada reciente y necesitas el material en PDF o las presentaciones:
+Si asististe a una clase o charla reciente y necesitas el material en PDF o las presentaciones:
 
 [✉ Solicitar Material de Clase](mailto:pablo.demetrio@gmail.com?subject=Solicitud%20Material%20de%20Clase){.btn .btn-outline-primary .btn-sm}
-:::
-
-### Código QR para Clases y Presentaciones
-
-::: {.qr-container}
-![](archivos/qr_sitio_demetrio.png){fig-alt="Código QR del sitio web profesional del Dr. Pablo M. Demetrio"}
-
-<span style="font-size: 0.82rem; color: gray;">Escanea con el celular para acceder al sitio y a los recursos docentes.</span>
 :::
